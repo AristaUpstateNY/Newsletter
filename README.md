@@ -1,1 +1,1 @@
-# SouthwestNewsletter
+# UpStateNYNewsletter

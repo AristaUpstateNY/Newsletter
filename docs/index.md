@@ -1,17 +1,17 @@
  ![Image Placememt](img/Arista_Logo_copy.png)
 
 
-# Arista Southwest Region Newsletter
+# Arista UpstateNY Region Newsletter
 
-Welcome to the April 2025 newsletter for Arista customers in the U.S. Southwest Region!
+Welcome to the May 2025 newsletter for Arista customers in the U.S. UpstateNY Region!
 
  
-We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to southwest@arista.com.  
+We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to UpstateNY@arista.com.  
 
 ---
 
 ## **Arista Zero Trust Networking Stack: Key Concepts**
-By: Salman Zahid, Director of Systems Engineering, Southwest Region  
+By: Salman Zahid, Director of Systems Engineering, South East Region  
 
 Safeguarding enterprise assets has always been essential for maintaining business continuity. However, as the traditional network perimeter disappears—driven by the dynamic placement of applications in the cloud and the adoption of SaaS solutions—organizations now face greater vulnerabilities. The push to offer seamless access to key resources for employees and contractors, often through BYOD policies, further increases this risk. Additionally, many threat actors now employ sophisticated, malware-free techniques that can cause significant damage, even when data is fully encrypted.  
 
@@ -40,7 +40,7 @@ To learn more about Arista’s Zero Trust approach, please visit the following l
 ---
 
 ## **The Evolution of Arista EOS: From SysDB to NetDL** 
-By: Frough Taihary & Alex Bojko, Advanced Services Engineer, Southwest Region  
+By: Frough Taihary & Alex Bojko, Advanced Services Engineer, South East Region  
 
 Arista Networks’ Extensible Operating System (EOS) has been a game-changer in networking, offering a modular, programmable, and highly resilient architecture. Unlike traditional network operating systems, EOS is built on a database-driven model, enabling real-time state streaming and management.    
 
