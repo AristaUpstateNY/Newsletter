@@ -136,7 +136,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 ---
 
-## **Article #1 - How Do You Judge the Health of Your Network?s**
+## **Article #1 - How Do You Judge the Health of Your Network**
 By: Joe Mitri,  Senior Systems Engineer, Upstate NY Region
 
 As engineers, we have no shortage of metrics to measure the health of our networks. Maybe your inbox is quiet. The helpdesk isn’t chasing you down. Syslog looks clean. Nobody's asking for a maintenance window. Devices have been up for months—maybe even years. All signs point to a stable, well-behaved network. However, stability alone doesn’t tell the whole story.
