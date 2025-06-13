@@ -37,14 +37,14 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     --- 
 
-    We make is easy for you to view products that are of interest, all virtually! Technical memebers of the team showcase outstading explanation of the products. Click below to see our list of Webinars. 
+    We make it easy for you to view products that are of interest, all virtually! Technical memebers of the team showcase outstanding explanation of the products. Click below to see our list of Webinars. 
 
     [Arista Webinars](https://www.arista.com/en/company/news/webinars){.md-button}
 
 -   __Global Events__ 
 
     ---
-    Join us in person to get a closer look in our list of produts and solution, as well as get the chance to meet members of the team. Click below to see our list of ipcoming Events. 
+    Join us in person to get a closer look in our list of products and solution, as well as get the chance to meet members of the team. Click below to see our list of upcoming Events. 
 
     [Upcoming Events](https://www.arista.com/en/company/news/events){ .md-button }
 
@@ -59,7 +59,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     <img src="img/LatestSoftwareUpdates.png"/>
 
-    | **Softwares**     | **Versions**                                        | **Release Date**                                    |
+    | **Software**     | **Version**                                        | **Release Date**                                    |
     |-------------------|-----------------------------------------------------|-----------------------------------------------------|
     | **EOS**           | 4.34.0F <br> 4.33.3F <br> 4.32.5.1M <br> 4.31.7.1M                | May 5th, 2025 <br> May 2nd, 2025 <br> April 25th, 2025 <br> April 25th, 2025|
     | **CVP**           | Portal 2025.1.1 <br> Appliance 7.0.1 <br> Sensor 1.1.0 | May 6th, 2025 <br> January 28th, 2025 <br> March 20th, 2025 |
@@ -136,7 +136,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 ---
 
-## **Article #1 - How Do You Judge the Health of Your Network**
+## **Article #1 - How Do You Judge the Health of Your Network?**
 By: Joe Mitri,  Senior Systems Engineer, Upstate NY Region
 
 As engineers, we have no shortage of metrics to measure the health of our networks. Maybe your inbox is quiet. The helpdesk isn’t chasing you down. Syslog looks clean. Nobody's asking for a maintenance window. Devices have been up for months—maybe even years. All signs point to a stable, well-behaved network. However, stability alone doesn’t tell the whole story.
@@ -153,7 +153,7 @@ Want to learn more about Smart System Upgrade (SSU)? Just reach out to your acco
 
 ---
 
-## **Article #2 - A switch is a switch is a switch” … or is it?** 
+## **Article #2 - A switch is a switch is a switch … or is it?** 
 By: Jeramiah Pauly,  Associate Account Manager, Upstate NY Region
 
 Let’s face it, when it comes to networking, we all know the drill. The term “switch” is tossed around like it’s just one box to plug in and call it a day. After all, isn’t a switch just a switch? But what if I told you that a switch can be much more than a simple piece of hardware? In fact, the right switch can be the difference between a network that’s stuck in the past and one that’s ready for the future. The truth is, not all switches are created equal. Arista Networks provides the critical infrastructure for your network so that it doesn’t just survive—it thrives.
@@ -178,6 +178,6 @@ Want to learn more about EOS? Just reach out to your account team, we’d be hap
 ![Image Placement](img/pictureOfNetworks.jpeg){: style="height:300px;width:800px"}  
     <figcaption></figcaption>
 </figure>
-We thank you for taking the time to read out newsletter today. Feel free to reach out to your SE or ASE for more information or questions regardsing your network operations. Until next month, have a good one! 
+We thank you for taking the time to read our newsletter today. Feel free to reach out to your SE or ASE for more information or questions regardsing your network operations. Until next month, have a good one! 
 
 
