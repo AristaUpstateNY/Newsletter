@@ -3,82 +3,37 @@
 
 # Arista UpstateNY Region Newsletter
 
-Welcome to the May 2025 newsletter for Arista customers in the U.S. UpstateNY Region!
+Welcome to the June 2025 newsletter for Arista customers in the U.S. Upstate NY Region!
 
  
-We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to UpstateNY@arista.com.  
-
----
-
-## **Arista Zero Trust Networking Stack: Key Concepts**
-By: Salman Zahid, Director of Systems Engineering, South East Region  
-
-Safeguarding enterprise assets has always been essential for maintaining business continuity. However, as the traditional network perimeter disappears—driven by the dynamic placement of applications in the cloud and the adoption of SaaS solutions—organizations now face greater vulnerabilities. The push to offer seamless access to key resources for employees and contractors, often through BYOD policies, further increases this risk. Additionally, many threat actors now employ sophisticated, malware-free techniques that can cause significant damage, even when data is fully encrypted.  
-
-
-Driven by evolving security challenges, Zero Trust has emerged as a top priority for enterprises. As a leading provider of networking solutions to enterprise customers, Arista recognizes that the network itself can be leveraged to enhance enterprise security in innovative and efficient ways—delivering robust protection without adding unnecessary complexity while maintaining a seamless experience for all users and stakeholders. While Zero Trust encompasses a broad range of security domains and requires contributions from various technologies—including firewalls, endpoint detection and response (EDR), and other security services—the network remains foundational. Every user, device, and application relies on the network to communicate, positioning it as a critical control point for enforcing security policies and enabling real-time visibility and threat response across the enterprise.  
-
-<figure markdown>
-![Image Placement](img/April2025_Newsletter_Pic1.png){: style="height:300px;width:800px"} 
-    <figcaption> Arista Zero Trust Networking </figcaption>
-</figure>  
-
-Arista’s Zero Trust architecture is a combination of various functions starting from  
-
-1. Identity-based adaptive access control: Arista’s AGNI (Arista Guardian Network Identity) system serves as a network access control policy engine that provides access to users and devices no matter where they connect over wired or wireless networks. It can be a policy engine for corporate users, devices, guest users, BYOD, and IoT. It meets the zero-trust requirement of trusting nothing and always knowing the identity of every endpoint. AGNI also helps operators restrict what users or devices can access once they are on the network.  
-
-2. Based on the user’s identity, we can create identity-aware microperimeters that are completely decoupled from the underlying network topology. Arista’s ZTX traffic mapper appliance (physical or virtual) can then monitor all session-level activity in the network and provide the operator a clear view of the communication activity. The operator can create policies based on that identity-aware view.  
-
-3. Multi Domain Microsegmentation Services (Arista MSS) can then enforce the identity-aware segmentation at the network's edge and greatly simplify or limit the need for the firewall to just inter-zone traffic—this kind of identity-aware enforcement further limits lateral movement within the network. Even if someone were to infiltrate the network, Arista MSS would greatly reduce the attacker's ability by restricting movement beyond what is allowed for that group, which is explicitly governed through the policy. Any traffic that does not match the policy is redirected to the firewalls for further inspection.  
-
-4. The native built-in NDR (Network Detection and Response) capability within Arista switches discovers, profiles, and tracks devices, users, and applications using AI-based fingerprinting and detects sophisticated threats with the lowest noise possible. This meets the continuous monitoring requirement of a network built with Zero Trust principles.  
-
-
-To learn more about Arista’s Zero Trust approach, please visit the following link below:  
-[Arista Zero Trust Networking](https://www.arista.com/en/solutions/security)  
-
----
-
-## **The Evolution of Arista EOS: From SysDB to NetDL** 
-By: Frough Taihary & Alex Bojko, Advanced Services Engineer, South East Region  
-
-Arista Networks’ Extensible Operating System (EOS) has been a game-changer in networking, offering a modular, programmable, and highly resilient architecture. Unlike traditional network operating systems, EOS is built on a database-driven model, enabling real-time state streaming and management.    
-
- This article explores the evolution of EOS, focusing on its core databases—SysDB, NetDB, and NetDL.  
-
- SysDB is the core of a switch that holds the state information of a switch. SysDB, or System Database,  exists in every Arista switch. It stores the state of all 100+ agents, or processes, running on the switch. The agents communicate through a publish and subscribe model to SysDB, therefore agents do not communicate with each other directly but only with SysDB. This prevents agent interdependency and cascading failures within the operating system. Also, by separating agent state from processing, we have created a more resilient and fault tolerant switching architecture. An agent that goes offline simply needs to pull its last known state from SysDB upon re-initilization to begin processing as if no failure occurred. To summarize, SysDB serves as a centralized database within each EOS switch, however, the next evolution of EOS goes beyond a single device.   
+We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to [UpstateNY@arista.com](mailto:UpstateNY@arista.com)
  
-
-<figure markdown>
-![Image Placement](img/April2025_Newsletter_Pic2.png)
-    <figcaption>  </figcaption>
-</figure>  
-
-NetDB is the next evolution of EOS, and it operates by collecting data from all of our Arista EOS switches. NetDB allows us to aggregate all the switches' state information in one location. The evolution from SysDB to NetDB led to the creation of our Network management and orchestration platform CloudVision. While this was a big step forward, we wanted to expand our visibility from EOS devices to now include information from all aspects of our network.   
-
-NetDL is the latest evolution of EOS. NetDL is a series of databases that aggregates information from all aspects of our network, not just the switching infrastructure. This can include data from our EOS devices, wireless, security, IoT, Virtualized, and 3rd party infrastructure. This led to the creation of CV-UNO (Universal Network Observability), which ingests all of the additional data into CloudVision, giving the network operator much wider visibility into their entire network. Also, since NetDL provides us with an expansive collection of network data in one location, Arista's AI/ML solution AVA (Autonomous Virtual Assist) can leverage the data to provide customers with real time remediation recommendations, reducing MTTR.   
-
-<figure markdown>
-![Image Placement](img/April2025_Newsletter_Pic3.png)
-    <figcaption>  </figcaption>
-</figure> 
-
-In conclusion, EOS evolved from a single database located on a single switch, to a network wide database aggregating every switch's state information, to an encompassing series of databases aggregating data from every aspect and interaction within our network.  
-
-To learn more, click on the links below:  
-[Ken Duda "EOS: A Tale of Opposite Architectures"](https://www.youtube.com/watch?v=Hfwr6sY27hA)  
-[Ken Duda "Arista NetDL Evolution"](https://www.youtube.com/watch?v=FWvceu6c-gY)  
-[Arista AVA (Autonomous Virtual Assist)](https://www.arista.com/assets/data/pdf/Whitepapers/Arista-AVA-Whitepaper.pdf)  
 
 ---
 
 ## __*Upcoming Events*__  
 Arista hosts various events throughout the year for you! Members of our team organize these informative events to showcase Arista's ability to not only help improve your network, but to also assist by providing a set of tools to improve your operations! Click on the boxes below to be directed to Arista's website for lists of Webinars and Events.
 
+<div class="grid cards" markdown>
+
+-   __Local Upstate NY Events__
+
+    <a href="" target="_blank">
+      <img src="img/UpstateNYEvents.png"/>
+    </a>
+
+    | Date         | Name                                     | Description                                                                                                                                                                                                                         | Location & Registration                                                                                       |
+    |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+    | __June 24__  | Arista Test Drive - Campus Automation    | Participants will walk through two labs: one to deploy an Arista campus from scratch and another introducing our wireless solution.                                                           | <span class="location-text">Albany NY</span>  [Register](https://events.arista.com/2025-06-24-arista-test-drive-albany-ny){.register-link}                      |
+    | __June 25__  | Arista Test Drive - Campus Automation    | Participants will walk through two labs: one to deploy an Arista campus from scratch and another introducing our wireless.                                                                    | <span class="location-text">Syracuse NY</span>  [Register](https://events.arista.com/2025-06-25-arista-test-drive-syracuse-ny){.register-link}                    |
+    | __June 26__  | Arista Test Drive - Campus Automation    | Participants will walk through two labs: one to deploy an Arista campus from scratch and another introducing our wireless.                                                                    | <span class="location-text">Rochester NY</span>  [Register](https://events.arista.com/2025-06-26-atd-rochester-ny-0){.register-link}                               |
+    | __June 27__  | Campus Roadshow                          | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                                                    | <span class="location-text">Buffalo NY</span>  [Register](https://events.arista.com/2025-06-27-campus-roadshow-buffalo-ny){.register-link}                       |
+
+</div>
 
 <div class="grid cards" markdown>
 
--   __Webinars__  
+-   __Global Webinars__  
 
     --- 
 
@@ -86,83 +41,135 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     [Arista Webinars](https://www.arista.com/en/company/news/webinars){.md-button}
 
--   __Events__ 
+-   __Global Events__ 
 
     ---
     Join us in person to get a closer look in our list of produts and solution, as well as get the chance to meet members of the team. Click below to see our list of ipcoming Events. 
 
     [Upcoming Events](https://www.arista.com/en/company/news/events){ .md-button }
 
-
 </div>
 
 --- 
 
 ## __*Software Updates*__
-<figure markdown>
-![Image Placement](img/pictureOfCloudVision.jpeg){: style="height:200px;width:300px"}    
-    <figcaption></figcaption>
-</figure>
-For new code releases, click [here](https://www.arista.com/en/support/software-download) 
+<div class="grid cards" markdown>
 
+-   <!-- empty list item just to wrap the card content -->
 
-   |  Softwares    | Versions      |  Release Date |
-   | :-----------: | :-----------: | :-----------:
-   | __EOS__           | 4.32.5M <br> 4.32.4.1M <br> 4.33.2F <br>  | March 27th, 2025 <br> February 25th, 2025 <br> February 20th, 2025 <br > 
-   | __CVP__           | Portal 2025.1.0 <br>Appliance 7.0.1<br> Sensor 1.1.0 <br>    | April 3rd, 2025 <br> January 28th, 2025<br> March 24th, 2025 <br>
-   | __DMF__           | 8.6.1 <br >8.5.2 <br> | March 6th, 2025 <br> November 1st, 2024 <br> 
-   | __WLAN__ <br>CV-CUE<br>Wireless Manager<br> | <br>13.0.0-67<br>18.0.0<br>       | <br>December 15th, 2022<br>December 2024<br>
-   | __Arista NDR__         | 5.2.4         | August 2024
-   | __TerminAttr__    | 1.35.1 <br>       | November 5th, 2024 <br> 
+    <img src="img/LatestSoftwareUpdates.png"/>
 
+    | **Softwares**     | **Versions**                                        | **Release Date**                                    |
+    |-------------------|-----------------------------------------------------|-----------------------------------------------------|
+    | **EOS**           | 4.34.0F <br> 4.33.3F <br> 4.32.5.1M <br> 4.31.7.1M                | May 5th, 2025 <br> May 2nd, 2025 <br> April 25th, 2025 <br> April 25th, 2025|
+    | **CVP**           | Portal 2025.1.1 <br> Appliance 7.0.1 <br> Sensor 1.1.0 | May 6th, 2025 <br> January 28th, 2025 <br> March 20th, 2025 |
+    | **DMF**           | 8.6.1 <br> 8.4.6                                     | March 4th, 2025 <br> June 6th, 2025             |
+    | **WLAN**          | CV-CUE 18.0.0  | December 6th, 2024        |
+    | **Arista NDR**    | 5.2.4 <br> AVA Sensor EOS-4.34.0F                                              | August 2024 <br> March 2025                                        |
+    | **TerminAttr**    | 1.38.2                                              | May 15th, 2025                                  |
+
+    For all code releases, click [here](https://www.arista.com/en/support/software-download)
+
+</div>
 
 ---
 
 ## __*Software Advisories*__
-Below is a list of advisories that are announced by Arista. To view more details on the specific advisories, please click the links in the middle row.
+<div class="grid cards" markdown>
 
-| Name          | Advisory Link           | Date of Advisory Notice  |
-| :-----------: |:-------------:| :-----:|
-|  __Time Bound Device Onboarding__   | [Security Advisory 0116](https://www.arista.com/en/support/advisories-notices/security-advisory/21316-security-advisory-0116)  | April 15th, 2025   |
-|  __ZTP Admin Privileges__   | [Security Advisory 0115](https://www.arista.com/en/support/advisories-notices/security-advisory/21315-security-advisory-0115)  | April 15th, 2025   |
-|  __Malicious Authenticated User__   | [Security Advisory 0114](https://www.arista.com/en/support/advisories-notices/security-advisory/21314-security-advisory-0114)  | April 15th, 2025   |
-|  __EOS Secure Vxlan__   | [Security Advisory 0113](https://www.arista.com/en/support/advisories-notices/security-advisory/21289-security-advisory-0113)  | April 8th, 2025   |
-|  __Renaming Arista WAN Routing Models__   | [Field Notice 0098](https://www.arista.com/en/support/advisories-notices/field-notice/21286-field-notice-0098)  | March 26th, 2025   |
-|  __CloudVision On-Prem Incomplete Database Writes__   | [Field Notice 0097](https://www.arista.com/en/support/advisories-notices/field-notice/21272-field-notice-0097)  | March 12th, 2025   |
-|  __CPU Monitor Sessions__   | [Field Notice 0096](https://www.arista.com/en/support/advisories-notices/field-notice/21117-field-notice-0096)  | March 7th, 2025   |
+-   <!-- empty list item just to wrap the card content -->
 
+    <img src="img/SecurityAdvisory.png"/>
 
+    To view more details, click the advisory links below.
 
+    | **Name** | **Advisory Link** | **Date** |
+    |:--------:|:-----------------:|:--------:|
+    | ACL policies may not be enforced | [Advisory 0120](https://www.arista.com/en/support/advisories-notices/security-advisory/21414-security-advisory-0120) | May 27, 2025 |
+    | IPsec may exhibit unexpected behavior | [Advisory 0119](https://www.arista.com/en/support/advisories-notices/security-advisory/21413-security-advisory-0119) | May 27, 2025 <br> Update: June 4, 2025 |
+    | VLAN isolation and segmentation boundaries | [Advisory 0118](https://www.arista.com/en/support/advisories-notices/security-advisory/21411-security-advisory-0118) | May 20, 2025 |
+    | Remote-server credentials | [Advisory 0117](https://www.arista.com/en/support/advisories-notices/security-advisory/21394-security-advisory-0117) | May 6, 2025 <br> Update: May 20, 2025 |
+    | Time Bound Device Onboarding | [Advisory 0116](https://www.arista.com/en/support/advisories-notices/security-advisory/21316-security-advisory-0116) | April 15, 2025 |
+    | ZTP Admin Privileges | [Advisory 0115](https://www.arista.com/en/support/advisories-notices/security-advisory/21315-security-advisory-0115) | April 15, 2025 |
+    | Malicious Authenticated User | [Advisory 0114](https://www.arista.com/en/support/advisories-notices/security-advisory/21314-security-advisory-0114) | April 15, 2025 |
+    | EOS Secure VxLAN | [Advisory 0113](https://www.arista.com/en/support/advisories-notices/security-advisory/21289-security-advisory-0113) | April 8, 2025 |
 
+    For a list of the most current advisories and notices, click [Here](https://www.arista.com/en/support/advisories-notices)
 
-For a list of the most current advisories and notices, click [Here](https://www.arista.com/en/support/advisories-notices)
+</div>
 
 ---
 
 ## __*Product Updates*__
-<figure markdown>
-![Image Placement](img/pictureOfSwitches.jpeg){: style="height:200px;width:400px"}   
-    <figcaption></figcaption>
-</figure>
-**End of Sale** notices are listed below.
 
-| Device        | Name           | End Of Sale Date  |
-| :-----------: |:-------------: |     :----:        |
-| Software      | [End of Software Support for EOS 4.28](https://www.arista.com/en/support/advisories-notices/end-of-support/21275-end-of-software-support-for-eos-4-28)<br>[DMF and CCF Deployments on Accton/ Edgecore Switches](https://www.arista.com/en/support/advisories-notices/end-of-support/21094-end-of-support-for-dmf-and-ccf-deployments-on-accton-edgecore-switches)<br>[EOS-4.34 and later no longer supported on select switches](https://www.arista.com/en/support/advisories-notices/end-of-support/21089-end-of-software-support-for-7280r-r2-7500r-r2-and-7020r-series)<br>[CloudVision Portal 2023.1 Train](https://www.arista.com/en/support/advisories-notices/end-of-support/21053-end-of-software-support-for-cloudvision-portal-2023-1-release-train) <br>  | March 14, 2025 <br>January 31st, 2025 <br>January 15th, 2025 <br>December 20th, 2024 <br>    |
-| Module        | [7500R2 Series Linecards](https://www.arista.com/en/support/advisories-notices/end-of-sale/18886-end-of-sale-of-the-arista-7500r2-series-line-cards) | December 20th, 2023    |
-| Access Points | [AP Model W-118](https://www.arista.com/en/support/advisories-notices/end-of-sale/20652-end-of-sale-of-ap-model-w-118) <br>      |   November 20th, 2024 <br> |
-| DMF           | [Recorder Node DCA-DM-RA3](https://www.arista.com/en/support/advisories-notices/end-of-sale/21087-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-ra3)          |  January 14th, 2025           |
-| Switches      | [DCS-7020R Series](https://www.arista.com/en/support/advisories-notices/end-of-sale/21052-end-of-sale-of-the-arista-dcs-7020r-series)<br> |  December 20th, 2024  |
+<div class="grid cards" markdown>
 
+- <!-- empty list item to wrap content -->
 
-**New Releases** of Arista's device are listed below 
+    <img src="img/ProductUpdates.png"/>
 
-|  Device       | More Information |  Release Date 
-    | :-----------: | :-----------:    | :-----------:
-    |  Arista SWAG    |   [Modern Stacking for Campus](https://www.arista.com/en/company/news/press-release/20693-pr-12032024)                | Q1 2025 
-    | Arista Multi-Domain Segmentaton Service  | [Arista MSS](https://www.arista.com/en/company/news/press-release/19297-pr-20240430)         | Q3 2024
-    | Arista CV UNO  | [CloudVision Universal Network Observability](https://www.arista.com/en/company/news/press-release/19195-pr-20240305)  | Q1 2024
+    **End of Sale** notices are listed below.
 
+    | **Device**      | **Name**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **End Of Sale Date**               |
+    |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+    | **Software**    | [End of Software Support for EOS 4.28](https://www.arista.com/en/support/advisories-notices/end-of-support/21275-end-of-software-support-for-eos-4-28)<br>[DMF and CCF Deployments on Accton/ Edgecore Switches](https://www.arista.com/en/support/advisories-notices/end-of-support/21094-end-of-support-for-dmf-and-ccf-deployments-on-accton-edgecore-switches)<br>[EOS-4.34 and later no longer supported on select switches](https://www.arista.com/en/support/advisories-notices/end-of-support/21089-end-of-software-support-for-7280r-r2-7500r-r2-and-7020r-series)<br>[CloudVision Portal 2023.1 Train](https://www.arista.com/en/support/advisories-notices/end-of-support/21053-end-of-software-support-for-cloudvision-portal-2023-1-release-train) | March 14, 2025<br>January 31, 2025<br>January 15, 2025<br>December 20, 2024 |
+    | **Module**      | [7500R2 Series Linecards](https://www.arista.com/en/support/advisories-notices/end-of-sale/18886-end-of-sale-of-the-arista-7500r2-series-line-cards)                                                                                                                                                                                                                                                                                                                                                                                                            | December 20, 2023                  |
+    | **Access Points** | [AP Model W-118](https://www.arista.com/en/support/advisories-notices/end-of-sale/20652-end-of-sale-of-ap-model-w-118)                                                                                                                                                                                                                                                                                                                                                                                                                                          | November 20, 2024                  |
+    | **DMF**         | [Recorder Node DCA-DM-RA3](https://www.arista.com/en/support/advisories-notices/end-of-sale/21087-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-ra3) <br> [Service Node DCA-DM-SEL](https://www.arista.com/en/support/advisories-notices/end-of-sale/21416-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-sel)                                                                                                                                                                                                                                                                                                                                                                                          | January 14, 2025 <br> June 3, 2025                   |
+    | **Switches**    | [DCS-7020R Series](https://www.arista.com/en/support/advisories-notices/end-of-sale/21052-end-of-sale-of-the-arista-dcs-7020r-series)                                                                                                                                                                                                                                                                                                                                                                                                                            | December 20, 2024                  |
+
+</div>
+
+<div class="grid cards" markdown>
+
+- <!-- empty list item to wrap content -->
+
+    **New Releases** of Arista devices are listed below.
+
+    | **Device**                        | **More Information**                                                                                                                   | **Release Date** |
+    |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------|
+    | Arista SWAG                      | [Modern Stacking for Campus](https://www.arista.com/en/company/news/press-release/20693-pr-12032024)                                   | Q1 2025          |
+    | Arista Multi-Domain Segmentation Service | [Arista MSS](https://www.arista.com/en/company/news/press-release/19297-pr-20240430)                                         | Q3 2024          |
+    | Arista CV UNO                    | [CloudVision Universal Network Observability](https://www.arista.com/en/company/news/press-release/19195-pr-20240305)                | Q1 2024          |
+
+</div>
+
+---
+
+## **Article #1 - How Do You Judge the Health of Your Network?s**
+By: Joe Mitri,  Senior Systems Engineer, Upstate NY Region
+
+As engineers, we have no shortage of metrics to measure the health of our networks. Maybe your inbox is quiet. The helpdesk isn’t chasing you down. Syslog looks clean. Nobody's asking for a maintenance window. Devices have been up for months—maybe even years. All signs point to a stable, well-behaved network. However, stability alone doesn’t tell the whole story.
+
+What about security? Can that be used as a metric for good network health? I’d argue yes, absolutely. Just because nothing appears broken doesn’t mean your network isn’t vulnerable to being exposed. A “healthy” network on the surface could still be running outdated software and missing critical patches.  In today’s environment, a strong security posture has to be part of how we define operational health.
+
+So why don’t we all keep our devices as current as possible? In many cases, it’s not because we don’t want to. It’s because upgrades have historically been painful. With legacy network OS’s, a software upgrade often means disruption. Even when everything goes as planned, you could still see an impact. Sometimes just 30 seconds, but even that can be too long in environments that require 24/7 availability.
+
+The good news is that this doesn’t have to be the tradeoff anymore. If you're running a modern network OS, like Arista EOS, upgrades don’t have to be a compromise. [Arista Smart System Upgrade (SSU)](https://www.arista.com/en/um-eos/eos-smart-system-upgrade ) gives you a way to upgrade software with no impact to connected hosts, even if they only have a single link. SSU keeps forwarding data during the upgrade, so users don’t notice a thing (< 100 ms). You can now treat software upgrades as a normal part of healthy operations without fear of outages. 
+
+As you evaluate your network’s health, make sure you’re not just measuring silence. Include upgradability in your assessment. Because a healthy network isn’t just quiet. It's secure.
+
+Want to learn more about Smart System Upgrade (SSU)? Just reach out to your account team, we’d be happy to set up a live demo.
+
+---
+
+## **Article #2 - A switch is a switch is a switch” … or is it?** 
+By: Jeramiah Pauly,  Associate Account Manager, Upstate NY Region
+
+Let’s face it, when it comes to networking, we all know the drill. The term “switch” is tossed around like it’s just one box to plug in and call it a day. After all, isn’t a switch just a switch? But what if I told you that a switch can be much more than a simple piece of hardware? In fact, the right switch can be the difference between a network that’s stuck in the past and one that’s ready for the future. The truth is, not all switches are created equal. Arista Networks provides the critical infrastructure for your network so that it doesn’t just survive—it thrives.
+
+For years, network managers in Upstate New York have been trapped with legacy networking equipment that’s as complicated as it is expensive. The "one-size-fits-all" approach has led to endless subscription fees, complex configurations, and network downtime that simply shouldn’t exist in 2025. What Arista offers is not just another switch. For over 20 years, Arista has pioneered a new way of thinking about networking. Think to yourself, “Have I seen a movie on Netflix lately, posted a picture on Facebook or listened to a song on Spotify?” If so, you’ve already experienced the power of Arista Networks!
+
+With Arista’s Extensible Operating System (EOS), switches are no longer just about connecting devices. They’re about automating network operations with CloudVision, optimizing performance, and simplifying management. In other words, Arista turned the humble switch into a tool that adapts and scales with your needs, not the other way around.
+
+Why Arista?
+Simplification: Intuitive, automated solutions that reduce network complexity
+Flexibility: Open, scalable solutions that adapt to evolving business needs
+Security: Consistently orders of magnitude fewer regression bugs than any other network OS
+
+Arista’s commitment to open standards and flexible, high-performance solutions means your network isn’t just built for today, it’s prepared for tomorrow. From zero-touch provisioning to seamless scalability, Arista’s portfolio is designed to reduce complexity while increasing reliability. So, next time you hear someone say “a switch is just a switch,” you’ll know. Arista is the world’s most advanced networking company. Period.
+
+Want to learn more about EOS? Just reach out to your account team, we’d be happy to set up a live demo.
 
 
 ---

@@ -27,17 +27,11 @@ theme:
       quote: octicons/quote-16
       note: octicons/tag-16
   palette:
-    primary: custom
+    primary: blue
   logo: 
   favicon: img/arista_logo.png
 
-nav:
-  - www.arista.com: http://www.arista.com
-  - June 2025: index.md
-  - May 2025: May2025.md
 
-extra_css:
-  - stylesheets/extra.css
 
-copyright: Copyright &copy; 2025 Arista Networks. You are receiving this newsletter as a customer of Arista. To stop receiving newsletters please contact Jeramiah Pauly - jpauly@arista.com
+copyright: Copyright &copy; 2024 Arista Networks. You are receiving this newsletter as a customer of Arista. To stop receiving newsletters please contact jpauly@arista.com
 
