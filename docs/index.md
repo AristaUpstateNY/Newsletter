@@ -162,10 +162,12 @@ For years, network managers in Upstate New York have been trapped with legacy ne
 
 With Arista’s Extensible Operating System (EOS), switches are no longer just about connecting devices. They’re about automating network operations with CloudVision, optimizing performance, and simplifying management. In other words, Arista turned the humble switch into a tool that adapts and scales with your needs, not the other way around.
 
+
 **Why Arista?**  
-**Simplification**: Intuitive, automated solutions that reduce network complexity<br>
-**Flexibility**: Open, scalable solutions that adapt to evolving business needs<br>
+**Simplification**: Intuitive, automated solutions that reduce network complexity  
+**Flexibility**: Open, scalable solutions that adapt to evolving business needs  
 **Security**: Consistently orders of magnitude fewer regression bugs than any other network OS
+
 
 Arista’s commitment to open standards and flexible, high-performance solutions means your network isn’t just built for today, it’s prepared for tomorrow. From zero-touch provisioning to seamless scalability, Arista’s portfolio is designed to reduce complexity while increasing reliability. So, next time you hear someone say “a switch is just a switch,” you’ll know. Arista is the world’s most advanced networking company. Period.
 

@@ -6,19 +6,24 @@ docs_dir: docs/
 edit_uri: edit/main/docs/
 
 markdown_extensions:
-- abbr
-- attr_list
-- md_in_html
-- admonition
-- tables
-- def_list
-- pymdownx.details
-- pymdownx.superfences
-- pymdownx.snippets
-- toc: 
-    permalink: true  
-- pymdownx.tasklist:  
-    custom_checkbox: true
+  - abbr
+  - attr_list
+  - md_in_html
+  - admonition
+  - def_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.betterem:
+      smart_enable: all
 
 theme:
   name: material
@@ -39,5 +44,6 @@ nav:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2025 Arista Networks. You are receiving this newsletter as a customer of Arista. To stop receiving newsletters please contact Jeramiah Pauly - jpauly@arista.com
-
+copyright: >
+  Copyright © 2025 Arista Networks. You are receiving this newsletter as a customer of Arista. 
+  To stop receiving newsletters please contact Jeramiah Pauly - jpauly@arista.com
