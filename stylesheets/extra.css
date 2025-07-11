@@ -118,4 +118,15 @@ a[href*="arista.com"]:hover {
   gap: 1.5rem;
 }
 
-
+/* -----------------------------------------
+   Floating image wrapper for article - July2025
+-------------------------------------------- */
+.article-image-float {
+  float: right !important;
+  margin: 0 0 15px 15px !important;
+  max-width: 340px !important;
+  width: 340px !important;
+  height: auto !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1) !important;
+}
