@@ -140,41 +140,46 @@ Arista hosts various events throughout the year for you! Members of our team org
 ## **Article #1 - The Challenge of Configuration Drift in Network Troubleshooting**
 By: Igor Parsadanov,  Team Lead Systems Engineering, Upstate NY Region
 
-Picture this: there's a critical network issue, and you're called in to troubleshoot. Adrenaline's pumping, pressure’s on. You jump into the CLI, hopping across devices, adding ACLs, tweaking route-maps, setting up mirror sessions—whatever it takes to isolate the problem.
+<div class="article-section" markdown>
 
-After a few hours, you prove what we all kind of knew: it's not the network.  (Surprise, Surprise!)
+<img src="img/July-Configcompliancearticleimage.png" alt="Configuration Compliance" class="article-image-float">
 
-But now you're left with a mess—temporary changes spread across five devices. Do you remember every tweak you made? You were careful not to break anything, but those changes weren’t meant to stick around. If you forget to clean them up, you’ve got config drift, and it ain’t pretty.  That’s where CloudVision steps in.
+Picture this: there's a critical network issue, and you're called in to troubleshoot. Adrenaline's pumping, pressure's on. You jump into the CLI, hopping across devices, adding ACLs, tweaking route-maps, setting up mirror ports—whatever it takes to isolate the problem.
+
+After a few hours, you prove what we all kind of knew: it's not the network. (Surprise, Surprise!)
+
+But now you're left with a mess—temporary changes spread across five devices. Do you remember every tweak you made? You were careful not to break anything, but those changes weren't meant to stick around. If you forget them up, you've got config drift, and it ain't pretty. That's where CloudVision steps in.
 
 It immediately flags those five devices as out of compliance with their golden configs. And the best part? With just a few clicks, you can wipe out the temporary changes and bring everything back to a clean, known-good state.
 
-This is one of CloudVision’s biggest strengths: it gives you full freedom to troubleshoot with CLI access, while silently tracking every change from the intended design. No scripts, no manual diffing, no headaches—just fast, reliable rollback when you’re done.
+This is one of CloudVision's biggest strengths. It gives you full freedom to troubleshoot with CLI access, while silently tracking every change from the intended design. No scripts, no manual drifting, no headaches—just fast, reliable rollback when you're done.
+
 CloudVision strikes the perfect balance between flexibility and control. You get real-time visibility across the entire network, and the peace of mind that comes with knowing you can always get back to baseline—quickly and safely.
 
 Want to see it in action? Ask your Systems Engineer for a demo of configuration compliance with CloudVision.
 
+</div>
 
 ---
 
 ## **Article #2 - Can gardening teach us a lesson in problem-solving: the difference between weeding a garden and merely cutting the weeds?** 
 By: Mike Connally,  Professional Account Manager, Upstate NY Region
 
-Let’s face it, when it comes to networking, we all know the drill. The term “switch” is tossed around like it’s just one box to plug in and call it a day. After all, isn’t a switch just a switch? But what if I told you that a switch can be much more than a simple piece of hardware? In fact, the right switch can be the difference between a network that’s stuck in the past and one that’s ready for the future. The truth is, not all switches are created equal. Arista Networks provides the critical infrastructure for your network so that it doesn’t just survive—it thrives.
+Summer in Upstate New York.  A welcome reprieve after the region's long precipitation season.  The phrase itself conjures recollection of the sun reflecting off lakes, lush mountains, long sun-drenched days and the aromatic flora surrounding us.  It's a time when nature bursts forth in growth and calls us to act on ambitious outdoor projects.  We are called to begin the constant effort of tending to our outdoor spaces.  Just like a flourishing garden, an enterprise network requires constant attention.
 
-For years, network managers in Upstate New York have been trapped with legacy networking equipment that’s as complicated as it is expensive. The "one-size-fits-all" approach has led to endless subscription fees, complex configurations, and network downtime that simply shouldn’t exist in 2025. What Arista offers is not just another switch. For over 20 years, Arista has pioneered a new way of thinking about networking. Think to yourself, “Have I seen a movie on Netflix lately, posted a picture on Facebook or listened to a song on Spotify?” If so, you’ve already experienced the power of Arista Networks!
+Imagine your garden. A persistent patch of dandelions has taken root, their bright yellow heads a cheerful but ultimately detrimental sight. You could, of course, easily snip off the heads.  For a brief time, the problem appears to be gone.  The garden looks tidier. This is the equivalent of fixing a problem on your network.  A switch port goes down; you reboot the switch.  A user complains of slow access; you restart their machine. These are quick, reactive measures that address the immediate symptoms. They offer a temporary reprieve, a superficial act masking a deeper issue.  The dandelions, you see, still have their roots firmly embedded, ready to sprout anew with the next rainfall.  What's worse, we frequently water our gardens in between rainfall encouraging weed growth at that same pace as our desirable growth.
 
-With Arista’s Extensible Operating System (EOS), switches are no longer just about connecting devices. They’re about automating network operations with CloudVision, optimizing performance, and simplifying management. In other words, Arista turned the humble switch into a tool that adapts and scales with your needs, not the other way around.
+Weeding, on the other hand, is a more deliberate and far more effective process.  It involves getting down on your hands and knees, understanding the plant's growth pattern, and carefully extracting the entire root system.  It's often messier, much more time-consuming, and requires a deeper understanding of the underlying biology.  Much like solving that persistent fundamental problem with your network.
 
+Consider that slow application complaint, this time it’s from a corporate VIP.  Instead of a quick reboot, a "weeding" approach would involve delving into the network.  Is it a bandwidth issue?  A misconfigured QoS setting?  A rogue application monopolizing resources?  Are there aging, non-standard cables or faulty network cards that are consistently degrading performance?  Perhaps the network architecture itself, once perfectly adequate, is no longer scaling to meet the modern demands of today’s workforce or new cloud-based applications.   
 
-<p><strong>Why Arista?</strong><br>
-<strong>Simplification</strong>: Intuitive, automated solutions that reduce network complexity.<br>
-<strong>Flexibility</strong>: Open, scalable solutions that adapt to evolving business needs.<br>
-<strong>Security</strong>: Consistently orders of magnitude fewer regression bugs than any other network OS.</p>
+Identifying the root cause requires a comprehensive view of the network path and its performance –  whether it's an inefficient proprietary feature / protocol, a tangle of software versions laced with their unique bugs, or a lack of proper network segmentation; you wouldn't know which root to pull without visibility across the entire packet path.  Demand for immediate relief may not afford you the time for systematically addressing it hence the giving in to clipping the weed.
 
-Arista’s commitment to open standards and flexible, high-performance solutions means your network isn’t just built for today, it’s prepared for tomorrow. From zero-touch provisioning to seamless scalability, Arista’s portfolio is designed to reduce complexity while increasing reliability. So, next time you hear someone say “a switch is just a switch,” you’ll know. Arista is the world’s most advanced networking company. Period.
+Maintaining an enterprise LAN is not merely about reacting to outages or defending against the criticism.  It's about proactive care and willingness to acknowledge “problems that can be solved”.  Just as a gardener doesn't wait for their blooms to be overtaken by non-native plants before tending to them.  This involves continuous monitoring, performance baseline, regular security audits, and a commitment to understanding the evolving needs of the business. 
 
-Want to learn more about EOS? Just reach out to your account team, we’d be happy to set up a live demo.
+[Arista Networks' CloudVision Universal Network Observability (CV UNO)](https://www.arista.com/en/products/eos/eos-cloudvision/cv-uno) is a network observability solution that leverages DANZ Monitoring Fabric (DMF) for deeper insights into network and application performance. CV UNO uses machine learning and data analytics to provide proactive risk analysis, real-time impact analysis, and accelerated issue resolution. The DMF acts as a foundation for CV UNO, providing the infrastructure for capturing and filtering network traffic, while CV UNO analyzes this data to identify anomalies and performance issue
 
+In the warmth of an Upstate New York summer, as the garden thrives under thoughtful cultivation, so too can your network flourish when its stewards adopt a "weeding" mindset. By consistently seeking out and eradicating the root causes of network architecture, devices and vulnerabilities, rather than just snipping at the symptoms, organizations can cultivate a culture of analysis and continuous improvement, where every "fix" is viewed as an opportunity to understand the underlying "weed" and actively prevent its recurrence.  The reward may well include network engineers who will enjoy more of the revitalizing seasonal activities this short season has to offer, and a business that delivers to its clients.
 
 ---
 # *Feel Free to Reach Out To Us For Your Network Needs* 
