@@ -144,19 +144,21 @@ By: Igor Parsadanov,  Team Lead Systems Engineering, Upstate NY Region
 
 <img src="img/July-Configcompliancearticleimage.png" alt="Configuration Compliance" class="article-image-float">
 
-Picture this: there's a critical network issue, and you're called in to troubleshoot. Adrenaline's pumping, pressure's on. You jump into the CLI, hopping across devices, adding ACLs, tweaking route-maps, setting up mirror ports—whatever it takes to isolate the problem.
+Picture this: there's a critical network issue, and you're called in to troubleshoot. Adrenaline's pumping, pressure’s on. You jump into the CLI, hopping across devices, adding ACLs, tweaking route-maps, setting up mirror sessions—whatever it takes to isolate the problem.
 
-After a few hours, you prove what we all kind of knew: it's not the network. (Surprise, Surprise!)
+After a few hours, you prove what we all kind of knew: it's not the network.  (Surprise, Surprise!)
 
-But now you're left with a mess—temporary changes spread across five devices. Do you remember every tweak you made? You were careful not to break anything, but those changes weren't meant to stick around. If you forget them up, you've got config drift, and it ain't pretty. That's where CloudVision steps in.
+But now you're left with a mess—temporary changes spread across five devices. Do you remember every tweak you made? You were careful not to break anything, but those changes weren’t meant to stick around. If you forget to clean them up, you’ve got config drift, and it ain’t pretty.  That’s where CloudVision steps in.
 
 It immediately flags those five devices as out of compliance with their golden configs. And the best part? With just a few clicks, you can wipe out the temporary changes and bring everything back to a clean, known-good state.
 
-This is one of CloudVision's biggest strengths. It gives you full freedom to troubleshoot with CLI access, while silently tracking every change from the intended design. No scripts, no manual drifting, no headaches—just fast, reliable rollback when you're done.
+This is one of CloudVision’s biggest strengths: it gives you full freedom to troubleshoot with CLI access, while silently tracking every change from the intended design. No scripts, no manual diffing, no headaches—just fast, reliable rollback when you’re done.
 
 CloudVision strikes the perfect balance between flexibility and control. You get real-time visibility across the entire network, and the peace of mind that comes with knowing you can always get back to baseline—quickly and safely.
 
 Want to see it in action? Ask your Systems Engineer for a demo of configuration compliance with CloudVision.
+
+
 
 </div>
 
