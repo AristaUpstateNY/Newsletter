@@ -222,7 +222,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 ---
 
-## **Article #1 - A Commitment to Self-Improving Innovation**
+## **Article #1 - The Frosting on the Fabric**
 By: Joe Mitri,  Senior Systems Engineer, Upstate NY Region
 
 <div class="article-section" markdown>
