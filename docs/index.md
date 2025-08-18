@@ -37,7 +37,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     --- 
 
-    We make it easy for you to view products that are of interest, all virtually! Technical memebers of the team showcase outstanding explanation of the products. Click below to see our list of Webinars. 
+    We make it easy for you to view products that are of interest, all virtually! Technical members of the team showcase outstanding explanation of the products. Click below to see our list of Webinars. 
 
     [Arista Webinars](https://www.arista.com/en/company/news/webinars){.md-button}
 
@@ -63,7 +63,7 @@ Arista hosts various events throughout the year for you! Members of our team org
     |------------------|----------------------------------------------------|-----------------------------------------------------|
     | **EOS**          | 4.34.2F <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 4.33.4M <br> 4.32.6.1M <br> 4.31.8M    | August 3rd, 2025 <br> June 23th, 2025 <br> July 2nd, 2025 <br> June 23rd, 2025 |
     | **CVP**          | Portal 2025.2.0 <br> Appliance 7.0.1 <br> Sensor 1.1.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | July 2nd, 2025 <br> January 28th, 2025 <br> July 14th, 2025 |
-    | **DMF**          | 8.8.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.7.2 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.6.2 <br> 8.5.3                                   | August 15th, 2025 <br> July 25th, 2025 <br> Jume 23rd, 2025 <br> June 20th, 2025 |
+    | **DMF**          | 8.8.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.7.2 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.6.2 <br> 8.5.3                                   | August 15th, 2025 <br> July 25th, 2025 <br> June 23rd, 2025 <br> June 20th, 2025 |
     | **WLAN**         | CV-CUE 19.0.0-200 <br> AP-19 19.0.0-183vv11 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> AP-18 18.0.0-183                              | June 13th, 2025 <br> July 25th, 2025 <br> March 27, 2025 |
     | **Arista NDR**   | 5.3.5                  | June 2025 |
     | **TerminAttr**   | 1.39.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>                                            | July 18th, 2025 |
@@ -244,7 +244,7 @@ When CloudVision launched in 2015, it offered a single point of visibility for t
 
 <figure markdown>
 ![Image Placement](img/Aug-CV10Y.png){: style="height:200px;width:800px"} 
-    <figcaption> Arista CoudVision </figcaption>
+    <figcaption> Arista CloudVision </figcaption>
 </figure>  
 
 For ten years, CloudVision has helped customers move from their legacy architectures to a modern operating model. It has reduced operational costs, increased uptime, and improved security. From healthcare to education to finance, and everything in between, every enterprise can benefit from doing more with less.
