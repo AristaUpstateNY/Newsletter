@@ -38,7 +38,8 @@ theme:
 
 nav:
   - www.arista.com: http://www.arista.com
-  - July 2025: index.md
+  - August 2025: index.md
+  - July 2025: July2025.md
   - June 2025: June2025.md
   - May 2025: May2025.md
 

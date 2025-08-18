@@ -3,7 +3,7 @@
 
 # Arista UpstateNY Region Newsletter
 
-Welcome to the July 2025 newsletter for Arista customers in the U.S. Upstate NY Region!
+Welcome to the August 2025 newsletter for Arista customers in the U.S. Upstate NY Region!
 
  
 We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to [UpstateNY@arista.com](mailto:UpstateNY@arista.com)
@@ -25,7 +25,8 @@ Arista hosts various events throughout the year for you! Members of our team org
     | Date         | Name                                     | Description                                                                                                                                                                                                                         | Location & Registration                                                                                       |
     |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
     | __October 2__  | Next Gen Campus with Arista - WiFi & NAC Edition | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                              | <span class="location-text">Canandaigua NY</span>  [Register](https://events.arista.com/10-02-arista-campus-roadshow-canandaigua-ny){.register-link}                      |
-    | __October 3__  | Next Gen Campus with Arista - WiFi & NAC Edition   | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                                                    | <span class="location-text">Buffalo NY</span>  [Register](https://events.arista.com/2025-10-03-arista-campus-roadshow-buffalo-ny){.register-link}                    |
+    | __October 3__  | Next Gen Campus with Arista - WiFi & NAC Edition   | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                                                    | <span class="location-text">Buffalo NY</span>  [Register](https://events.arista.com/2025-10-03-arista-campus-roadshow-buffalo-ny){.register-link}  
+    | __October 15__  | Build a Smarter Network (Local Gov) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>  | Discover how New York towns and counties are modernizing networks to cut costs, simplify IT, and boost security.                                                                    | <span class="location-text">Webinar</span>  [Register](https://arista.zoom.us/meeting/register/TnfmX2KfRQWiRgPMydXBRA#/registration){.register-link}                    |
     | __October 23__  | Arista Campus Networking Day   | Join us at Camp Arista where your guides will cover a range of technical topics and showcase innovative solutions.                                                                    | <span class="location-text">Syracuse NY</span>  [Register](https://events.arista.com/2025-campus-networking-day-syracuse-ny){.register-link}                               |
 
 </div>
@@ -59,18 +60,19 @@ Arista hosts various events throughout the year for you! Members of our team org
     <img src="img/LatestSoftwareUpdates.png"/>
 
     | **Software**     | **Version**                                        | **Release Date**                                    |
-    |-------------------|-----------------------------------------------------|-----------------------------------------------------|
-    | **EOS**           | 4.34.1F <br> 4.33.4M <br> 4.32.6.1M <br> 4.31.8M                | June 16th, 2025 <br> June 23th, 2025 <br> July 2nd, 2025 <br> June 23rd, 2025|
-    | **CVP**           | Portal 2025.2.0 <br> Appliance 7.0.1 <br> Sensor 1.1.0 | July 2nd, 2025 <br> January 28th, 2025 <br> March 20th, 2025 |
-    | **DMF**           | 8.6.1 <br> 8.5.3                                     | March 4th, 2025 <br> June 20th, 2025             |
-    | **WLAN**          | CV-CUE 19.0.0  | June 13th, 2025        |
-    | **Arista NDR**    | 5.3.5 <br> AVA Sensor EOS-4.34.1F                                              | June 2025 <br> June 2025                                        |
-    | **TerminAttr**    | 1.38.2                                              | May 15th, 2025                                  |
-    | **VeloCloud**           | Orchestrator 6.4.0 <br> Gateway 6.4.0 <br> Edge 6.4.0 | May 2nd, 2025 <br> May 2nd, 2025 <br> May 2nd, 2025 |
+    |------------------|----------------------------------------------------|-----------------------------------------------------|
+    | **EOS**          | 4.34.2F <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 4.33.4M <br> 4.32.6.1M <br> 4.31.8M    | August 3rd, 2025 <br> June 23th, 2025 <br> July 2nd, 2025 <br> June 23rd, 2025 |
+    | **CVP**          | Portal 2025.2.0 <br> Appliance 7.0.1 <br> Sensor 1.1.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | July 2nd, 2025 <br> January 28th, 2025 <br> July 14th, 2025 |
+    | **DMF**          | 8.8.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.7.2 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.6.2 <br> 8.5.3                                   | August 15th, 2025 <br> July 25th, 2025 <br> Jume 23rd, 2025 <br> June 20th, 2025 |
+    | **WLAN**         | CV-CUE 19.0.0-200 <br> AP-19 19.0.0-183vv11 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> AP-18 18.0.0-183                              | June 13th, 2025 <br> July 25th, 2025 <br> March 27, 2025 |
+    | **Arista NDR**   | 5.3.5                  | June 2025 |
+    | **TerminAttr**   | 1.39.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>                                            | July 18th, 2025 |
+    | **VeloCloud**    | Orchestrator 6.4.0 <br> Gateway 6.4.0 <br> Edge 6.4.0 | May 2nd, 2025 <br> May 2nd, 2025 <br> May 2nd, 2025 |
 
     For all code releases, click [here](https://www.arista.com/en/support/software-download)
 
 </div>
+
 
 ---
 
@@ -85,6 +87,8 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     | **Name** | **Advisory Link** | **Date** |
     |:--------:|:-----------------:|:--------:|
+    | Encryption key configuration may be logged in clear text | [Advisory 0122](https://www.arista.com/en/support/advisories-notices/security-advisory/22022-security-advisory-0122) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | July 22, 2025 |
+    | Maliciously formed UDP packets | [Advisory 0121](https://www.arista.com/en/support/advisories-notices/security-advisory/22021-security-advisory-0121) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | July 22, 2025 |
     | ACL policies may not be enforced | [Advisory 0120](https://www.arista.com/en/support/advisories-notices/security-advisory/21414-security-advisory-0120) | May 27, 2025 |
     | IPsec may exhibit unexpected behavior | [Advisory 0119](https://www.arista.com/en/support/advisories-notices/security-advisory/21413-security-advisory-0119) | May 27, 2025 <br> Update: June 4, 2025 |
     | VLAN isolation and segmentation boundaries | [Advisory 0118](https://www.arista.com/en/support/advisories-notices/security-advisory/21411-security-advisory-0118) | May 20, 2025 |
@@ -110,13 +114,68 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     **End of Sale** notices are listed below.
 
-    | **Device**      | **Name**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **End Of Sale Date**               |
-    |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-    | **Software**    | [End of Software Support for EOS 4.28](https://www.arista.com/en/support/advisories-notices/end-of-support/21275-end-of-software-support-for-eos-4-28)<br>[DMF and CCF Deployments on Accton/ Edgecore Switches](https://www.arista.com/en/support/advisories-notices/end-of-support/21094-end-of-support-for-dmf-and-ccf-deployments-on-accton-edgecore-switches)<br>[EOS-4.34 and later no longer supported on select switches](https://www.arista.com/en/support/advisories-notices/end-of-support/21089-end-of-software-support-for-7280r-r2-7500r-r2-and-7020r-series)<br>[CloudVision Portal 2023.1 Train](https://www.arista.com/en/support/advisories-notices/end-of-support/21053-end-of-software-support-for-cloudvision-portal-2023-1-release-train)<br>[VeloCloud Software Defined (SD) Access ](https://www.arista.com/en/support/advisories-notices/end-of-sale/21653-end-of-sale-end-of-life-for-velocloud-software-defined-sd-access) | March 14, 2025<br>January 31, 2025<br>January 15, 2025<br>December 20, 2024<br>July 1, 2025 |
-    | **Module**      | [7500R2 Series Linecards](https://www.arista.com/en/support/advisories-notices/end-of-sale/18886-end-of-sale-of-the-arista-7500r2-series-line-cards)                                                                                                                                                                                                                                                                                                                                                                                                            | December 20, 2023                  |
-    | **Access Points** | [AP Model W-118](https://www.arista.com/en/support/advisories-notices/end-of-sale/20652-end-of-sale-of-ap-model-w-118)                                                                                                                                                                                                                                                                                                                                                                                                                                          | November 20, 2024                  |
-    | **DMF**         | [Recorder Node DCA-DM-RA3](https://www.arista.com/en/support/advisories-notices/end-of-sale/21087-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-ra3) <br> [Service Node DCA-DM-SEL](https://www.arista.com/en/support/advisories-notices/end-of-sale/21416-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-sel) <br> [Service Node DCA-DM-SDL](https://www.arista.com/en/support/advisories-notices/end-of-sale/21648-end-of-sale-end-of-life-for-arista-service-node-appliance-dca-dm-sdl)                                                                                                                                                                                                                                                                                                                                                                                          | January 14, 2025 <br> June 3, 2025 <br> July 1, 2025                   |
-    | **Switches**    | [DCS-7020R Series](https://www.arista.com/en/support/advisories-notices/end-of-sale/21052-end-of-sale-of-the-arista-dcs-7020r-series)                                                                                                                                                                                                                                                                                                                                                                                                                            | December 20, 2024                  |
+    <table>
+      <thead>
+        <tr>
+          <th><b>Device</b></th>
+          <th><b>Name</b></th>
+          <th><b>End Of Sale Date</b></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Software</td>
+          <td>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21089-end-of-software-support-for-7280r-r2-7500r-r2-and-7020r-series">EOS-4.34 and later no longer supported on select switches</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21094-end-of-support-for-dmf-and-ccf-deployments-on-accton-edgecore-switches">DMF and CCF Deployments on Accton/ Edgecore Switches</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21275-end-of-software-support-for-eos-4-28">End of Software Support for EOS 4.28</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21362-end-of-software-support-for-cloud-builder">CloudVision CloudBuilder 2025.1</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21417-end-of-software-support-for-dmf-8-3">DMF 8.3</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21627-end-of-software-support-for-cloudvision-portal-2023-3-release-train">CloudVision Portal 2023.3 Train</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21653-end-of-sale-end-of-life-for-velocloud-software-defined-sd-access">VeloCloud Software Defined (SD) Access</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/22004-end-of-software-support-for-cvp-ipam-application">CloudVision IPAM Application 2025.1</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br>
+          </td>
+          <td>
+            January 15, 2025<br>
+            January 31, 2025<br>
+            March 14, 2025<br>
+            April 30, 2025<br>
+            June 3, 2025<br>
+            June 17, 2025<br>
+            July 1, 2025<br>
+            July 14, 2025
+          </td>
+        </tr>  
+        <tr>
+          <td>Module</td>
+          <td><a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/18886-end-of-sale-of-the-arista-7500r2-series-line-cards">7500R2 Series Linecards</a></td>
+          <td>December 20, 2023</td>
+        </tr>
+        <tr>
+          <td>Access Points</td>
+          <td><a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/20652-end-of-sale-of-ap-model-w-118">AP Model W-118</a></td>
+          <td>November 20, 2024</td>
+        </tr>
+        <tr>
+          <td>DMF</td>
+          <td>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21087-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-ra3">Recorder Node DCA-DM-RA3</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21416-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-sel">Service Node DCA-DM-SEL</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21648-end-of-sale-end-of-life-for-arista-service-node-appliance-dca-dm-sdl">Service Node DCA-DM-SDL</a>
+          </td>
+          <td>
+            January 14, 2025<br>
+            June 3, 2025<br>
+            July 1, 2025
+          </td>
+        </tr>
+        <tr>
+          <td>Switches</td>
+          <td><a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21052-end-of-sale-of-the-arista-dcs-7020r-series">DCS-7020R Series</a></td>
+          <td>December 20, 2024</td>
+        </tr>
+      </tbody>
+    </table>
 
 </div>
 
@@ -126,63 +185,115 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     **New Releases** of Arista devices are listed below.
 
-    | **Device**                        | **More Information**                                                                                                                   | **Release Date** |
-    |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------------|
-    | Arista VeloCloud                      | [Expanded AI-Driven Campus and Branch Networking Offerings](https://www.arista.com/en/company/news/press-release/21646-pr-07012025)                                   | Q3 2025          |
-    | Arista Cluster Load Balancing (CLB)                      | [Intelligent Innovations for AI Networking](https://www.arista.com/en/company/news/press-release/21271-pr-20250312)                                   | Q2 2025          |
-    | The Ultra Ethernet Consortium                      | [A major milestone in redefining Ethernet for the AI and HPC](https://youtu.be/jfC-1u8BR4Y)                                   | Q2 2025          |
-    | Arista SWAG                      | [Modern Stacking for Campus](https://www.arista.com/en/company/news/press-release/20693-pr-12032024)                                   | Q1 2025          |
+    <table>
+      <thead>
+        <tr>
+          <th><b>Device</b></th>
+          <th><b>More Information</b></th>
+          <th><b>Release Date</b></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Arista VeloCloud</td>
+          <td><a href="https://www.arista.com/en/company/news/press-release/21646-pr-07012025">Expanded AI-Driven Campus and Branch Networking Offerings</a></td>
+          <td>Q3 2025</td>
+        </tr>
+        <tr>
+          <td>Arista Cluster Load Balancing (CLB)</td>
+          <td><a href="https://www.arista.com/en/company/news/press-release/21271-pr-20250312">Intelligent Innovations for AI Networking</a></td>
+          <td>Q2 2025</td>
+        </tr>
+        <tr>
+          <td>The Ultra Ethernet Consortium</td>
+          <td><a href="https://youtu.be/jfC-1u8BR4Y">A major milestone in redefining Ethernet for the AI and HPC</a></td>
+          <td>Q2 2025</td>
+        </tr>
+        <tr>
+          <td>Arista SWAG</td>
+          <td><a href="https://www.arista.com/en/company/news/press-release/20693-pr-12032024">Modern Stacking for Campus</a></td>
+          <td>Q1 2025</td>
+        </tr>
+      </tbody>
+    </table>
 
 </div>
 
+
 ---
 
-## **Article #1 - The Challenge of Configuration Drift in Network Troubleshooting**
-By: Igor Parsadanov,  Team Lead Systems Engineering, Upstate NY Region
+## **Article #1 - A Commitment to Self-Improving Innovation**
+By: Joe Mitri,  Senior Systems Engineer, Upstate NY Region
 
 <div class="article-section" markdown>
 
-<img src="img/July-Configcompliancearticleimage.png" alt="Configuration Compliance" class="article-image-float">
 
-Picture this: there's a critical network issue, and you're called in to troubleshoot. Adrenaline's pumping, pressure’s on. You jump into the CLI, hopping across devices, adding ACLs, tweaking route-maps, setting up mirror sessions—whatever it takes to isolate the problem.
+The other night I was walking through the grocery store. One of those late-night runs when the crowds are gone and the shelves are half empty. Passing the bakery, I saw it: one lonely, forgotten cupcake sitting on a tray like it had missed the party.
 
-After a few hours, you prove what we all kind of knew: it's not the network.  (Surprise, Surprise!)
+Then I noticed a rainbow of balloons swaying under the AC vents and had a sudden sinking feeling. Did I forget a birthday?
 
-But now you're left with a mess—temporary changes spread across five devices. Do you remember every tweak you made? You were careful not to break anything, but those changes weren’t meant to stick around. If you forget to clean them up, you’ve got config drift, and it ain’t pretty.  That’s where CloudVision steps in.
+I pulled out my phone to check. Sure enough, I had. But in my defense, it never said a word. Not even a hint.
 
-It immediately flags those five devices as out of compliance with their golden configs. And the best part? With just a few clicks, you can wipe out the temporary changes and bring everything back to a clean, known-good state.
+Somewhere between monitoring compliance and pushing configs, CloudVision quietly turned ten. And true to form, there was no drama, no fanfare, just a decade of being one of the most capable, feature-rich, and underrated platforms in networking.
 
-This is one of CloudVision’s biggest strengths: it gives you full freedom to troubleshoot with CLI access, while silently tracking every change from the intended design. No scripts, no manual diffing, no headaches—just fast, reliable rollback when you’re done.
+So yes, this article is a belated birthday card. No balloons. But I did buy the cupcake 🧁.
 
-CloudVision strikes the perfect balance between flexibility and control. You get real-time visibility across the entire network, and the peace of mind that comes with knowing you can always get back to baseline—quickly and safely.
+In an industry where platforms are often discarded and reinvented every few years, CloudVision stands out as a rare example of evolution. A decade long commitment to self-improving innovation. More than just a management interface, it has become the foundation of operational simplicity and visibility across Arista deployments.
 
-Want to see it in action? Ask your Systems Engineer for a demo of configuration compliance with CloudVision.
+When CloudVision launched in 2015, it offered a single point of visibility for the entire network fabric. It was built on open standards and designed to scale. What is more impressive is how it has grown. Over the past decade, CloudVision has added live streaming telemetry, workflow automation, network auditability and compliance, campus-focused features, multi-domain security, AI-driven analytics, and much more. Not as bolt-ons or afterthoughts, but as integrated capabilities with a clear and consistent design vision that spans your entire Arista network.
 
+<figure markdown>
+![Image Placement](img/Aug-CV10Y.png){: style="height:200px;width:800px"} 
+    <figcaption> Arista CoudVision </figcaption>
+</figure>  
 
+For ten years, CloudVision has helped customers move from their legacy architectures to a modern operating model. It has reduced operational costs, increased uptime, and improved security. From healthcare to education to finance, and everything in between, every enterprise can benefit from doing more with less.
+
+I, for one, cannot wait to see what CloudVision does next.
+
+If you would like to learn more, check out the YouTube link below or reach out to your local Arista team.
 
 </div>
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/g5oYJk6-A60" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ---
 
-## **Article #2 - Can gardening teach us a lesson in problem-solving: the difference between weeding a garden and merely cutting the weeds?** 
-By: Mike Connally,  Professional Account Manager, Upstate NY Region
+## **Article #2 - From Hyperscale to Hometown – Why the Town of Webster Trusts Arista** 
+By: Jeramiah Pauly,  Associate Account Manager, Upstate NY Region
 
-Summer in Upstate New York.  A welcome reprieve after the region's long precipitation season.  The phrase itself conjures recollection of the sun reflecting off lakes, lush mountains, long sun-drenched days and the aromatic flora surrounding us.  It's a time when nature bursts forth in growth and calls us to act on ambitious outdoor projects.  We are called to begin the constant effort of tending to our outdoor spaces.  Just like a flourishing garden, an enterprise network requires constant attention.
+<div class="article-section" markdown>
 
-Imagine your garden. A persistent patch of dandelions has taken root, their bright yellow heads a cheerful but ultimately detrimental sight. You could, of course, easily snip off the heads.  For a brief time, the problem appears to be gone.  The garden looks tidier. This is the equivalent of fixing a problem on your network.  A switch port goes down; you reboot the switch.  A user complains of slow access; you restart their machine. These are quick, reactive measures that address the immediate symptoms. They offer a temporary reprieve, a superficial act masking a deeper issue.  The dandelions, you see, still have their roots firmly embedded, ready to sprout anew with the next rainfall.  What's worse, we frequently water our gardens in between rainfall encouraging weed growth at that same pace as our desirable growth.
+Arista, recently named one of Forbes’ Top 15 Best Companies in America for 2025, powers the backbone of global cloud giants like Microsoft and Meta. But some of our most meaningful success stories are unfolding much closer to home. One such example is in the Town of Webster, New York, where local government leaders turned to Arista to modernize their critical network infrastructure.
 
-Weeding, on the other hand, is a more deliberate and far more effective process.  It involves getting down on your hands and knees, understanding the plant's growth pattern, and carefully extracting the entire root system.  It's often messier, much more time-consuming, and requires a deeper understanding of the underlying biology.  Much like solving that persistent fundamental problem with your network.
+This month, we spoke with Steve Peace, Director of Information Technology, and John Camille, Network Administrator for the Town of Webster, to learn how Arista is reshaping their operations from the ground up. “Eye-opening. That’s the short version,” said Camille. “The longer version? Arista has completely changed how we think about and manage our network.”
 
-Consider that slow application complaint, this time it’s from a corporate VIP.  Instead of a quick reboot, a "weeding" approach would involve delving into the network.  Is it a bandwidth issue?  A misconfigured QoS setting?  A rogue application monopolizing resources?  Are there aging, non-standard cables or faulty network cards that are consistently degrading performance?  Perhaps the network architecture itself, once perfectly adequate, is no longer scaling to meet the modern demands of today’s workforce or new cloud-based applications.   
+Like many municipalities, Webster’s network had developed organically over time, with a patchwork of vendors and gear. That led to complexity, inconsistent configurations, and a reliance on workarounds instead of streamlined solutions. According to Camille, the change since deploying Arista has been dramatic. “Now, we can rack and configure a switch on-site and push configurations through CloudVision. What used to take days now takes hours.”
 
-Identifying the root cause requires a comprehensive view of the network path and its performance –  whether it's an inefficient proprietary feature / protocol, a tangle of software versions laced with their unique bugs, or a lack of proper network segmentation; you wouldn't know which root to pull without visibility across the entire packet path.  Demand for immediate relief may not afford you the time for systematically addressing it hence the giving in to clipping the weed.
+CloudVision, Arista’s management and analytics platform, has also revolutionized how Webster troubleshoots and plans their network. “The level of visibility and insight into client experience and network health is unmatched. We can show exactly where things are working and where they’re not. No guesswork, just facts.”
 
-Maintaining an enterprise network is not merely about reacting to outages or defending against the criticism.  It's about proactive care and willingness to acknowledge “problems that can be solved”.  Just as a gardener doesn't wait for their blooms to be overtaken by non-native plants before tending to them.  This involves continuous monitoring, performance baseline, regular security audits, and a commitment to understanding the evolving needs of the business.
+Camille highlighted the daily tools that have become essential to his team’s operations: dashboards, topology mapping, CVE and bug visibility, MAC address history, health monitoring, and configlet management—all within CloudVision. “Change management used to mean reading twenty pages of documentation, digging through forum threads, and deciphering handwritten notes,” he said. “Now, it’s one platform, one book, one design. It just works. Working with Arista makes everything easier—management, planning, implementation, and yes, even budgeting.”
 
+From a leadership standpoint, the Town of Webster had clear goals: simplify network management, improve performance, and strengthen security. For Steve Peace, cost savings and long-term sustainability were critical factors in evaluating a new vendor. “We wanted to improve manageability, increase performance, eliminate vendor creep, and enhance our security posture by being able to easily install updates and fixes,” Peace explained. “We also needed a solution with the fewest CVEs in the market and at a lower cost. Arista checked every box.”
 
-[Arista Networks' CloudVision Universal Network Observability (CV UNO)](https://www.arista.com/en/products/eos/eos-cloudvision/cv-uno) is a network observability solution that leverages DANZ Monitoring Fabric (DMF) for deeper insights into network and application performance. CV UNO uses machine learning and data analytics to provide proactive risk analysis, real-time impact analysis, and accelerated issue resolution. The DMF acts as a foundation for CV UNO, providing the infrastructure for capturing and filtering network traffic, while CV UNO analyzes this data to identify anomalies and performance issues.
+According to Peace, the decision to go with Arista didn’t take long. “The features, simplified licensing, and lower cost made it an easy decision. All switches operate on the same firmware, which makes updates and programming much easier.” Results came quickly. Security posture improved with modern hardware. CloudVision provided end-to-end visibility and control across every location. Configuration changes and software updates now roll out with speed and minimal disruption. “We’ve been very pleased with the devices and products installed so far,” Peace said. “I can’t wait to see the improvements once all our facilities are migrated to Arista.”
 
-In the warmth of an Upstate New York summer, as the garden thrives under thoughtful cultivation, so too can your network flourish when its stewards adopt a "weeding" mindset. By consistently seeking out and eradicating the root causes of network vulnerabilities, rather than just snipping at the symptoms, organizations can cultivate a culture of analysis and continuous improvement, where every "fix" is viewed as an opportunity to understand the underlying "weed" and actively prevent its recurrence.  CV UNO is that perfect tool for the job.  The reward may well include network engineers who will enjoy more of the revitalizing seasonal activities this short season has to offer, and a business that delivers to its clients.
+The Town of Webster’s journey reflects a growing trend across Upstate New York. Towns, counties, and public agencies are choosing Arista to simplify their networks, bolster security, and gain the agility to support evolving community needs. Whether managing large-scale cloud infrastructure or securing essential services for a local government, Arista delivers the same standard of reliability, visibility, and innovation.
+
+What sets Arista apart?
+
+- A single operating system across campus, data center, WAN, and branch
+- Real-time streaming telemetry with AI-driven insights from CloudVision
+- Orders of magnitude fewer bugs and security vulnerabilities than any competitor
+- Industry-leading customer satisfaction and a Net Promoter Score of +87
+
+For more information on how Arista can help modernize your network, contact Jeramiah Pauly at jpauly@arista.com
+
+</div>
+
 
 ---
 # *Feel Free to Reach Out To Us For Your Network Needs* 
