@@ -24,9 +24,10 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     | Date         | Name                                     | Description                                                                                                                                                                                                                         | Location & Registration                                                                                       |
     |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+    | __October 1__  | Arista Test Drive <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | Interested in learning why Arista Networks is the preferred choice for data centers? Join us for a no-cost, hands-on training session led by local Arista engineers                                             | <span class="location-text">Poughkeepsie&nbsp;NY</span>  [Register](https://events.arista.com/2025-10-01-arista-test-drive-poughkeepsie-ny){.register-link}      
     | __October 2__  | Next Gen Campus with Arista - WiFi & NAC Edition | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                              | <span class="location-text">Canandaigua NY</span>  [Register](https://events.arista.com/10-02-arista-campus-roadshow-canandaigua-ny){.register-link}                      |
     | __October 3__  | Next Gen Campus with Arista - WiFi & NAC Edition   | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                                                    | <span class="location-text">Buffalo NY</span>  [Register](https://events.arista.com/2025-10-03-arista-campus-roadshow-buffalo-ny){.register-link}  
-    | __October 15__  | Build a Smarter Network (Local Gov) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>  | Discover how New York towns and counties are modernizing networks to cut costs, simplify IT, and boost security.                                                                    | <span class="location-text">Webinar</span>  [Register](https://arista.zoom.us/meeting/register/TnfmX2KfRQWiRgPMydXBRA#/registration){.register-link}                    |
+    | __October 15__  | Build a Smarter Network (Local Gov) | Discover how New York towns and counties are modernizing networks to cut costs, simplify IT, and boost security.                                                                    | <span class="location-text">Webinar</span>  [Register](https://arista.zoom.us/meeting/register/TnfmX2KfRQWiRgPMydXBRA#/registration){.register-link}                    |
     | __October 23__  | Arista Campus Networking Day   | Join us at Camp Arista where your guides will cover a range of technical topics and showcase innovative solutions.                                                                    | <span class="location-text">Syracuse NY</span>  [Register](https://events.arista.com/2025-campus-networking-day-syracuse-ny){.register-link}                               |
 
 </div>
@@ -61,12 +62,12 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     | **Software**     | **Version**                                        | **Release Date**                                    |
     |------------------|----------------------------------------------------|-----------------------------------------------------|
-    | **EOS**          | 4.34.2F <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 4.33.4M <br> 4.32.6.1M <br> 4.31.8M    | August 3rd, 2025 <br> June 23th, 2025 <br> July 2nd, 2025 <br> June 23rd, 2025 |
-    | **CVP**          | Portal 2025.2.0 <br> Appliance 7.0.1 <br> Sensor 1.1.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | July 2nd, 2025 <br> January 28th, 2025 <br> July 14th, 2025 |
-    | **DMF**          | 8.8.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.7.2 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br> 8.6.2 <br> 8.5.3                                   | August 15th, 2025 <br> July 25th, 2025 <br> June 23rd, 2025 <br> June 20th, 2025 |
-    | **WLAN**         | CV-CUE 19.0.0-200 <br> AP-19 19.0.0-183vv11 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> AP-18 18.0.0-183                              | June 13th, 2025 <br> July 25th, 2025 <br> March 27, 2025 |
+    | **EOS**          | 4.34.2F <br> 4.33.5M <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> 4.32.7M <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> 4.31.9M <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>   | August 3rd, 2025 <br> Sept 3rd, 2025 <br> Sept 4th, 2025 <br> Sept 4th, 2025 |
+    | **CVP**          | Portal 2025.1.3 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> Appliance 7.0.1 <br> Sensor 1.2.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | Sept 4th, 2025 <br> January 28th, 2025 <br> Sept 4th, 2025 |
+    | **DMF**          | 8.8.0 <br> 8.7.2 <br> 8.6.2 <br> 8.5.3                                   | August 15th, 2025 <br> July 25th, 2025 <br> June 23rd, 2025 <br> June 20th, 2025 |
+    | **WLAN**         | CV-CUE 20.0.0-179 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> AP-20 20.0.0-179 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> AP-19 19.0.0-183vv11                             | August 20th, 2025 <br> August 20th, 2025 <br> July 25th, 2025 |
     | **Arista NDR**   | 5.3.5                  | June 2025 |
-    | **TerminAttr**   | 1.39.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>                                            | July 18th, 2025 |
+    | **TerminAttr**   | 1.40.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>                                            | Sept 4th, 2025 |
     | **VeloCloud**    | Orchestrator 6.4.0 <br> Gateway 6.4.0 <br> Edge 6.4.0 | May 2nd, 2025 <br> May 2nd, 2025 <br> May 2nd, 2025 |
 
     For all code releases, click [here](https://www.arista.com/en/support/software-download)
@@ -87,8 +88,8 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     | **Name** | **Advisory Link** | **Date** |
     |:--------:|:-----------------:|:--------:|
-    | Encryption key configuration may be logged in clear text | [Advisory 0122](https://www.arista.com/en/support/advisories-notices/security-advisory/22022-security-advisory-0122) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | July 22, 2025 |
-    | Maliciously formed UDP packets | [Advisory 0121](https://www.arista.com/en/support/advisories-notices/security-advisory/22021-security-advisory-0121) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | July 22, 2025 |
+    | Encryption key configuration may be logged in clear text | [Advisory 0122](https://www.arista.com/en/support/advisories-notices/security-advisory/22022-security-advisory-0122) | July 22, 2025 |
+    | Maliciously formed UDP packets | [Advisory 0121](https://www.arista.com/en/support/advisories-notices/security-advisory/22021-security-advisory-0121) | July 22, 2025 |
     | ACL policies may not be enforced | [Advisory 0120](https://www.arista.com/en/support/advisories-notices/security-advisory/21414-security-advisory-0120) | May 27, 2025 |
     | IPsec may exhibit unexpected behavior | [Advisory 0119](https://www.arista.com/en/support/advisories-notices/security-advisory/21413-security-advisory-0119) | May 27, 2025 <br> Update: June 4, 2025 |
     | VLAN isolation and segmentation boundaries | [Advisory 0118](https://www.arista.com/en/support/advisories-notices/security-advisory/21411-security-advisory-0118) | May 20, 2025 |
@@ -133,7 +134,11 @@ Arista hosts various events throughout the year for you! Members of our team org
             <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21417-end-of-software-support-for-dmf-8-3">DMF 8.3</a><br>
             <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/21627-end-of-software-support-for-cloudvision-portal-2023-3-release-train">CloudVision Portal 2023.3 Train</a><br>
             <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21653-end-of-sale-end-of-life-for-velocloud-software-defined-sd-access">VeloCloud Software Defined (SD) Access</a><br>
-            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/22004-end-of-software-support-for-cvp-ipam-application">CloudVision IPAM Application 2025.1</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22072-end-of-sale-life-velocloud-sase-secured-symantec">VeloCloud SASE Secured by Symantec</a> <br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-support/22004-end-of-software-support-for-cvp-ipam-application">CloudVision IPAM Application 2025.1</a> <br>
+            <a href="https://www.arista.com/en/support/advisories-notices/field-notice/22238-field-notice-0111">CloudVision Portal 2025.2.1</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br>
+            <a href="https://www.arista.com/en/support/advisories-notices/field-notice/22238-field-notice-0111">CloudVision Portal 2025.2.0</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br>
+            <a href="https://www.arista.com/en/support/advisories-notices/field-notice/22237-field-notice-0110">CloudVision Portal 2025.1.2</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br>
           </td>
           <td>
             January 15, 2025<br>
@@ -143,7 +148,11 @@ Arista hosts various events throughout the year for you! Members of our team org
             June 3, 2025<br>
             June 17, 2025<br>
             July 1, 2025<br>
-            July 14, 2025
+            July 1, 2025<br>
+            July 14, 2025<br>
+            Sept 3, 2025<br>
+            Sept 3, 2025<br>
+            Sept 4, 2025
           </td>
         </tr>  
         <tr>
@@ -171,9 +180,24 @@ Arista hosts various events throughout the year for you! Members of our team org
         </tr>
         <tr>
           <td>Switches</td>
-          <td><a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21052-end-of-sale-of-the-arista-dcs-7020r-series">DCS-7020R Series</a></td>
-          <td>December 20, 2024</td>
-        </tr>
+          <td>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21052-end-of-sale-of-the-arista-dcs-7020r-series">DCS-7020R Series</a><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22401-end-of-sale-of-the-arista-ccs-710p-12-switch">CCS-710P-12</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22402-end-of-sale-of-the-arista-ccs-720d-switches-with-4gb-dram">CCS-720DP-24S</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22402-end-of-sale-of-the-arista-ccs-720d-switches-with-4gb-dram">CCS-720DP-48S</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22402-end-of-sale-of-the-arista-ccs-720d-switches-with-4gb-dram">CCS-720DT-24S</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22402-end-of-sale-of-the-arista-ccs-720d-switches-with-4gb-dram">CCS-720DF-48Y</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span><br>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22403-end-of-sale-of-the-arista-ccs-720xp-96zc2-switches-with-4gb-dram">CCS-720XP-96ZC2</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>
+          </td>
+          <td>
+            December 20, 2025<br>
+            September 12, 2025<br>
+            September 12, 2025<br>
+            September 12, 2025<br>
+            September 12, 2025<br>
+            September 12, 2025<br>
+            September 12, 2025
+          </td>
       </tbody>
     </table>
 
@@ -219,78 +243,125 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 </div>
 
-
 ---
 
-## **Article #1 - The Frosting on the Fabric**
-By: Joe Mitri,  Senior Systems Engineer, Upstate NY Region
+## __*Spotlight*__ 
+<p style="text-align: center;"><strong>Arista - AI Ecosystem of Innovators</strong> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span></p>
 
 <div class="article-section" markdown>
-
-
-The other night I was walking through the grocery store. One of those late-night runs when the crowds are gone and the shelves are half empty. Passing the bakery, I saw it: one lonely, forgotten cupcake sitting on a tray like it had missed the party.
-
-Then I noticed a rainbow of balloons swaying under the AC vents and had a sudden sinking feeling. Did I forget a birthday?
-
-I pulled out my phone to check. Sure enough, I had. But in my defense, it never said a word. Not even a hint.
-
-Somewhere between monitoring compliance and pushing configs, CloudVision quietly turned ten. And true to form, there was no drama, no fanfare, just a decade of being one of the most capable, feature-rich, and underrated platforms in networking.
-
-So yes, this article is a belated birthday card. No balloons. But I did buy the cupcake 🧁.
-
-In an industry where platforms are often discarded and reinvented every few years, CloudVision stands out as a rare example of evolution. A decade long commitment to self-improving innovation. More than just a management interface, it has become the foundation of operational simplicity and visibility across Arista deployments.
-
-When CloudVision launched in 2015, it offered a single point of visibility for the entire network fabric. It was built on open standards and designed to scale. What is more impressive is how it has grown. Over the past decade, CloudVision has added live streaming telemetry, workflow automation, network auditability and compliance, campus-focused features, multi-domain security, AI-driven analytics, and much more. Not as bolt-ons or afterthoughts, but as integrated capabilities with a clear and consistent design vision that spans your entire Arista network.
-
-<figure markdown>
-![Image Placement](img/Aug-CV10Y.png){: style="height:200px;width:800px"} 
-    <figcaption> Arista CloudVision </figcaption>
-</figure>  
-
-For ten years, CloudVision has helped customers move from their legacy architectures to a modern operating model. It has reduced operational costs, increased uptime, and improved security. From healthcare to education to finance, and everything in between, every enterprise can benefit from doing more with less.
-
-I, for one, cannot wait to see what CloudVision does next.
-
-If you would like to learn more, check out the YouTube link below or reach out to your local Arista team.
-
 </div>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://www.youtube.com/embed/g5oYJk6-A60" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/FzwydqLKHxI?rel=0&wmode=transparent" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
+
+## **Article #1 - Is Your Wi-Fi Working Overtime?**
+By: Jacob Darling,  Systems Engineer, Upstate NY Region
+
+<div class="article-section" markdown>
+
+As engineers, we strive to give our wireless clients the best signal, the best throughput, and the most reliable airtime. The airwaves are continuously saturated with everything from neighboring rogue Wi-Fi networks to microwaves in the break room heating your co-workers' lunch. The last thing we want to interrupt are the valuable radio cycles dedicated to any given user device. In order to adapt to a real time RF environment, access points have historically consumed bits of those client cycles to successfully channel plan, power plan, and avoid inevitable interference. 
+
+**But what if we didn’t have to live in that world any longer?**
+
+I’d like to take a moment to highlight the Multifunction Radio present in many of Arista Networks access points. A dedicated Tri-Band radio that is capable of giving those client radio cycles back to the clients! A true swiss army knife of the wireless world. Not only does this radio take over the burden of traditional client radio background scanning, it offers a breadth of tools to add to your engineers toolbelt. A few of my favorites include:
+
+- The ability to turn this radio **into a client!** Gain real time network insights for a specific location and simulate day-to-day traffic activities. These include simple throughput testing, VoIP calling tests, or even simulating reachability to your custom applications. Run these tests against neighboring APs before ever stepping foot onsite.
+
+- Always available **Spectrum Analysis** - Stop spending your wi-fi budget on additional standalone spectrum sensors!
+
+- Over-The-Air **Packet Captures** - Get a deeper analysis of your environment by capturing Management, Data and Control Frames from an AP and surrounding APs.
+
+These are all very useful tools to support an ever-changing wireless environment.
+
+<figure markdown>
+![Image Placement](img/Sept-WiFi3rdRadio.png){: style="height:175px;width:800px"} 
+    <figcaption> Arista Multifunction Radio Uses </figcaption>
+</figure>
+
+Give your Wi-Fi a break and consider adding the Arista Multifunction Radio to your fleet. Reach out to your local account team or join us at one of our upcoming Next-Gen Campus events for a hands-on look at Arista Wi-Fi!
 </div>
 
 
 ---
 
-## **Article #2 - From Hyperscale to Hometown – Why the Town of Webster Trusts Arista** 
-By: Jeramiah Pauly,  Associate Account Manager, Upstate NY Region
+## **Article #2 - The Biggest Threat to Arista Networks** 
+By: Rob Montone, Region Manager, Upstate NY Region
 
 <div class="article-section" markdown>
 
-Arista, recently named one of Forbes’ Top 15 Best Companies in America for 2025, powers the backbone of global cloud giants like Microsoft and Meta. But some of our most meaningful success stories are unfolding much closer to home. One such example is in the Town of Webster, New York, where local government leaders turned to Arista to modernize their critical network infrastructure.
+Folks, after nearly a decade of being with Arista, many of you have heard me say that our greatest competition - the biggest threat to Arista - is people not knowing about us. That has held true for my 9 year tenure. 
 
-This month, we spoke with Steve Peace, Director of Information Technology, and John Camille, Network Administrator for the Town of Webster, to learn how Arista is reshaping their operations from the ground up. “Eye-opening. That’s the short version,” said Camille. “The longer version? Arista has completely changed how we think about and manage our network.”
+When people are exposed to Arista, light bulbs go off, they evaluate our technology, then they purchase it - every time.  And they never stop thanking us for helping to make their lives easier. They don’t have to chase as many outages from bugs. They don’t have to create downtime to fix security vulnerabilities. They have their nights, weekends and holidays back and can spend more time doing the things they love.
 
-Like many municipalities, Webster’s network had developed organically over time, with a patchwork of vendors and gear. That led to complexity, inconsistent configurations, and a reliance on workarounds instead of streamlined solutions. According to Camille, the change since deploying Arista has been dramatic. “Now, we can rack and configure a switch on-site and push configurations through CloudVision. What used to take days now takes hours.”
+I cannot think of a single reason to work with legacy network providers. 
+Arista already has everything that everyone is searching for in a modern network infrastructure.
 
-CloudVision, Arista’s management and analytics platform, has also revolutionized how Webster troubleshoots and plans their network. “The level of visibility and insight into client experience and network health is unmatched. We can show exactly where things are working and where they’re not. No guesswork, just facts.”
+- Five nines reliability (99.999% uptime) 
+- Hitless upgrades
+- Network-wide automation
+- Real-time streaming telemetry
+- Seamless and massive scalability
+- Holistic security
+- Simplicity
+- etc. 
+all built **on open-standards protocols.** 
 
-Camille highlighted the daily tools that have become essential to his team’s operations: dashboards, topology mapping, CVE and bug visibility, MAC address history, health monitoring, and configlet management—all within CloudVision. “Change management used to mean reading twenty pages of documentation, digging through forum threads, and deciphering handwritten notes,” he said. “Now, it’s one platform, one book, one design. It just works. Working with Arista makes everything easier—management, planning, implementation, and yes, even budgeting.”
+No proprietary lock-in.
 
-From a leadership standpoint, the Town of Webster had clear goals: simplify network management, improve performance, and strengthen security. For Steve Peace, cost savings and long-term sustainability were critical factors in evaluating a new vendor. “We wanted to improve manageability, increase performance, eliminate vendor creep, and enhance our security posture by being able to easily install updates and fixes,” Peace explained. “We also needed a solution with the fewest CVEs in the market and at a lower cost. Arista checked every box.”
+And the best thing - the thing that application developers, operations managers and network engineers alike LOVE THE MOST - is a completely UNIFIED OPERATING ENVIRONMENT.  
 
-According to Peace, the decision to go with Arista didn’t take long. “The features, simplified licensing, and lower cost made it an easy decision. All switches operate on the same firmware, which makes updates and programming much easier.” Results came quickly. Security posture improved with modern hardware. CloudVision provided end-to-end visibility and control across every location. Configuration changes and software updates now roll out with speed and minimal disruption. “We’ve been very pleased with the devices and products installed so far,” Peace said. “I can’t wait to see the improvements once all our facilities are migrated to Arista.”
+Yes - ONE operating system and ONE management platform across all previous network “silos”:  
+LAN, WAN, MAN, DC, Campus, Switching, Routing, Cloud, etc.  
 
-The Town of Webster’s journey reflects a growing trend across Upstate New York. Towns, counties, and public agencies are choosing Arista to simplify their networks, bolster security, and gain the agility to support evolving community needs. Whether managing large-scale cloud infrastructure or securing essential services for a local government, Arista delivers the same standard of reliability, visibility, and innovation.
+We can’t imagine how organizations have been running on such fragmented silos - each with their own OS; each with their own management tools; each with their own unique set of bugs and security holes. How can your business nimbly capture new markets - with first mover advantage - when you’re constantly engaged in fixing the plethora of disparate systems you already have?
 
-What sets Arista apart?
+With varying, fragmented silos, how can you have a unified automation strategy?  How can you uniformly apply Zero Trust Policies? How long does it take to certify new applications or app changes across an abundance of operating systems? Think of how long it takes to patch security holes in every binary of your infrastructure. And then all the licensing - don’t get me started…
 
-- A single operating system across campus, data center, WAN, and branch
-- Real-time streaming telemetry with AI-driven insights from CloudVision
-- Orders of magnitude fewer bugs and security vulnerabilities than any competitor
-- Industry-leading customer satisfaction and a Net Promoter Score of +87
+Those that have joined the Arista family tell us how much less grunt-work they do.  
+The #1 compliment we receive is “Your systems just work”. 
+How nice. 
 
-For more information on how Arista can help modernize your network, contact Jeramiah Pauly at jpauly@arista.com
+The network SHOULD just work so that YOU can do REAL work for the company. 
+
+Again, I say that Arista already has everything everyone is looking for - without the headaches. It was built from the ground up to unify all the traditional silos with a stunning history of quality, reliability and stability.
+
+Now, Arista is not perfect. This is software, after all. Software is a human endeavor and humans are not yet perfect. And even now, with the advent of AI-generated software, one cannot test EVERY possible situation. YOUR network is unique - it’s going to present anomalies to every new technology. 
+
+And here’s Arista’s critical advantage: it has a Technical Assistance Center (TAC) staffed only by Level 3 engineers. No escalations, no complex VRUs to get through before you speak to a Level 1 engineer who asks questions that insult your intelligence, then a Level 2 engineer who you have trouble understanding because they’re in a country you’ve never heard of; then a “duty manager” (always makes me laugh - thank you Chandler Bing), THEN finally (maybe) a smarty.  
+
+**Arista TAC:** 30 seconds to get to an English speaking Level 3 engineer. 
+No entitlement questions asked. 
+Problem solved.
+
+Our clients LOVE THIS. 
+We know because they tell us.
+
+When I joined Arista our revenue was just shy of $1B. I wondered to myself “A Level 3-only TAC is well and good for a small <$1B company, but how will that scale?”  But here we are now - 8 times the size of when I started, and we still have a +87 NPS Score TAC that answers your call in under 30 seconds with A LEVEL-3 ENGINEER WHO WILL SOLVE YOUR PROBLEM.
+
+The reason we’ve been able to hold on to that model is because of the quality of our code. 
+
+When you get quality right, you get everything right.
+
+This cannot be understated. 
+
+As a result, Arista has orders of magnitude fewer regression bugs and security vulnerabilities than the competition.
+
+Fewer bugs & CVEs means fewer critical support calls.
+
+Fewer TAC calls means you can staff it with the best smarties - without bankrupting the company.
+
+In Upstate NY, we’ve installed over 5,000 switches and routers across a 12-13 year period. Not one serious network outage. I’ve not been on a single P1 (network down) crisis call; not one P2 (network severely degraded) call. I’ve not had to work nights, weekends or holidays because OUR CLIENTS have not had to work nights, weekends or holidays.
+
+No other network vendor has all of these qualities. This is how and why we’ve grown to a nearly $10B company - not by slick marketing and deceptive advertising, but BY WORD OF MOUTH. 
+
+And that word of mouth is: “Arista just works”.
+
+So Again I say: our greatest competition is people not knowing about us. 
+
+Help us spread the word. 
 
 </div>
 
