@@ -245,8 +245,8 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 ---
 
-## __*Spotlight*__ 
-<p style="text-align: center;"><strong>Arista - AI Ecosystem of Innovators</strong> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span></p>
+## __*SPOTLIGHT A.I.*__ 
+<p style="text-align: center;"><strong>Take a look at these Arista testimonials from an A-List of A.I. industry luminaries!</strong> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span></p>
 
 <div class="article-section" markdown>
 </div>
@@ -307,6 +307,7 @@ Arista already has everything that everyone is searching for in a modern network
 - Holistic security
 - Simplicity
 - etc. 
+
 all built **on open-standards protocols.** 
 
 No proprietary lock-in.
@@ -318,7 +319,7 @@ LAN, WAN, MAN, DC, Campus, Switching, Routing, Cloud, etc.
 
 We can’t imagine how organizations have been running on such fragmented silos - each with their own OS; each with their own management tools; each with their own unique set of bugs and security holes. How can your business nimbly capture new markets - with first mover advantage - when you’re constantly engaged in fixing the plethora of disparate systems you already have?
 
-With varying, fragmented silos, how can you have a unified automation strategy?  How can you uniformly apply Zero Trust Policies? How long does it take to certify new applications or app changes across an abundance of operating systems? Think of how long it takes to patch security holes in every binary of your infrastructure. And then all the licensing - don’t get me started…
+With varying, fragmented silos, how can you have a unified automation strategy?  How can you uniformly apply Zero Trust policies? How long does it take to certify new applications or app changes across an abundance of operating systems? Think of how long it takes to patch security holes in every binary of your infrastructure. And then all the licensing - don’t get me started…
 
 Those that have joined the Arista family tell us how much less grunt-work they do.  
 The #1 compliment we receive is “Your systems just work”. 
