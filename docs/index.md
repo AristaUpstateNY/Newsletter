@@ -307,8 +307,8 @@ Arista already has everything that everyone is searching for in a modern network
 - Holistic security
 - Simplicity
 - etc. 
-
-all built **on open-standards protocols.** 
+  
+all built on **open-standards protocols.** 
 
 No proprietary lock-in.
 
@@ -319,7 +319,7 @@ LAN, WAN, MAN, DC, Campus, Switching, Routing, Cloud, etc.
 
 We can’t imagine how organizations have been running on such fragmented silos - each with their own OS; each with their own management tools; each with their own unique set of bugs and security holes. How can your business nimbly capture new markets - with first mover advantage - when you’re constantly engaged in fixing the plethora of disparate systems you already have?
 
-With varying, fragmented silos, how can you have a unified automation strategy?  How can you uniformly apply Zero Trust policies? How long does it take to certify new applications or app changes across an abundance of operating systems? Think of how long it takes to patch security holes in every binary of your infrastructure. And then all the licensing - don’t get me started…
+With varying, fragmented silos, how can you have a unified automation strategy?  How can you uniformly apply Zero Trust Policies? How long does it take to certify new applications or app changes across an abundance of operating systems? Think of how long it takes to patch security holes in every binary of your infrastructure. And then all the licensing - don’t get me started…
 
 Those that have joined the Arista family tell us how much less grunt-work they do.  
 The #1 compliment we receive is “Your systems just work”. 
@@ -331,9 +331,9 @@ Again, I say that Arista already has everything everyone is looking for - withou
 
 Now, Arista is not perfect. This is software, after all. Software is a human endeavor and humans are not yet perfect. And even now, with the advent of AI-generated software, one cannot test EVERY possible situation. YOUR network is unique - it’s going to present anomalies to every new technology. 
 
-And here’s Arista’s critical advantage: it has a Technical Assistance Center (TAC) staffed only by Level 3 engineers. No escalations, no complex VRUs to get through before you speak to a Level 1 engineer who asks questions that insult your intelligence, then a Level 2 engineer who you have trouble understanding because they’re in a country you’ve never heard of; then a “duty manager” (always makes me laugh - thank you Chandler Bing), THEN finally (maybe) a smarty.  
+And here’s Arista’s critical advantage: it has a Technical Assistance Center (TAC) staffed only by Level 3 engineers. No escalations, no complex VRUs to get through before you speak to a Level 1 engineer who asks questions that insult your intelligence, then a Level 2 engineer who doesn’t understand your problem; then a “duty manager” (always makes me laugh - thank you Chandler Bing), THEN finally (maybe) a smarty.  
 
-**Arista TAC:** 30 seconds to get to an English speaking Level 3 engineer. 
+**Arista TAC:** 30 seconds to get to an Arista-badged, Level 3 engineer. 
 No entitlement questions asked. 
 Problem solved.
 
@@ -360,7 +360,7 @@ No other network vendor has all of these qualities. This is how and why we’ve 
 
 And that word of mouth is: “Arista just works”.
 
-So Again I say: our greatest competition is people not knowing about us. 
+So again I say: our greatest competition is people not knowing about us. 
 
 Help us spread the word. 
 
