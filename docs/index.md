@@ -286,13 +286,13 @@ With that in mind, I wanted to share with you my top “Did you knows?” that I
 
 **We have a simple Microsegmentation Solution**
 
-I’ve heard the zero-trust word thrown around for years now. I have yet to see an agentless way to implement east-west controls in a campus or datacenter easily–until I saw our MSS solution (Multi-Domain Segmentation). 
+I’ve heard the zero-trust word thrown around for years now. I had yet to see an agentless way to implement east-west controls in a campus or datacenter easily–until I saw our MSS solution (Multi-Domain Segmentation). 
 
 If you want an easy way to implement agentless east-west segmentation controls [check out MSS.](https://youtu.be/yHgPwDmqtj0)
 
 **Arista has a NAC**
 
-NAC systems are complicated. I work with a lot of customers who have a dedicated person that knows the voodoo required to configure their NAC. Nobody else dare touch it 🫣. 
+Legacy NAC systems are complicated. I work with a lot of customers who have a dedicated person that knows the voodoo required to configure their NAC. Nobody else dare touch it 🫣. 
 
 The more I work with our NAC, [AGNI](https://www.youtube.com/watch?v=OcTWCmyL5SI&t=1s) (Arista Guardian for Network Identity) the more I learn to appreciate its simplicity and cloud-first approach.
 
@@ -329,7 +329,7 @@ The threat landscape is always changing, and traditional perimeter defenses simp
 
 Traditional security solutions struggle with a landscape where attacks continue to evolve beyond malware: supply chain threats, insider attacks, and living off the land tactics, among others. At the same time, a new network has emerged with unmanaged Internet of Things, cloud infrastructure, contractor and third-party devices, and shadow IT. While the new network continues to gain prominence and transcend enterprise perimeters, it has become vital for organizations to address the cascading attack surface and to build an integrated cybersecurity strategy that delivers holistic visibility and control.
 
-The **Arista NDR** platform is built on a foundation of deep network analysis from **AVA Sensors** that span the ”new network”—including the data center, campus, IoT, as well as cloud workload networks, and SaaS applications. These sensors come in various form factors from being built into Arista switches as well as standalone hardware, virtual, or cloud sensors. 
+The **Arista Network Detection and Response (NDR)** platform is completely vendor agnostic. It will work with anyone's network. Arista's NDR is built on a foundation of deep network analysis from **AVA Sensors** that span the ”new network”—including the data center, campus, IoT, as well as cloud workload networks, and SaaS applications. These sensors can be appliance-based, hypervisor-based, or exist in the Cloud. And if you have Arista switches in your closets, you may already have the NDR sensors built in.
 
 Unlike other network detection and response solutions, Arista NDR parses over three thousand protocols and processes layer 2 through layer 7 data. The platform also analyzes encrypted protocols to identify important context such as the nature of traffic (file transfer, interactive shell, etc.), the applications communicating, and the presence of remote access, all without forcing data decryption. Arista’s **EntityIQ™** technology uses this information to autonomously profile entities such as devices, users, and applications while preserving these communications for future forensic analysis.
 
