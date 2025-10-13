@@ -32,6 +32,17 @@ a[href*="arista.com"]:hover {
   text-decoration: none;
 }
 
+/* Make non-arista links use the same bright blue everywhere in content */
+.md-typeset a:not([href*="arista.com"]) {
+  color: #0070d2;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.md-typeset a:not([href*="arista.com"]):hover {
+  color: #005bb5;
+  text-decoration: none;
+}
+
 /* -----------------------------------------
    Highlight location text in column 4 of event tables
    (e.g., Albany NY, Syracuse NY, etc.)
