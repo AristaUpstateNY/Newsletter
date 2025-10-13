@@ -276,7 +276,7 @@ By: Ryan Clark,  Systems Engineer, Upstate NY Region
 <div class="article-section" markdown>
 
 <figure markdown>
-![Image Placement](img/Oct-didyouknow.jpeg){: style="height:300px;width:800px"} 
+![Image Placement](img/oct-didyouknow.jpeg){: style="height:300px;width:800px"} 
     <figcaption>  </figcaption>
 </figure>
 
