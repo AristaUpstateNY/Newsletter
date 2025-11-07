@@ -19,7 +19,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 -   __Local Upstate NY Events__
 
     <a href="" target="_blank">
-      <img src="img/UpstateNYEvents.png"/>
+      <img src="../img/UpstateNYEvents.png"/>
     </a>
 
     | Date         | Name                                     | Description                                                                                                                                                                                                                         | Location & Registration                                                                                       |
@@ -57,7 +57,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 -   <!-- empty list item just to wrap the card content -->
 
-    <img src="img/LatestSoftwareUpdates.png"/>
+    <img src="../img/LatestSoftwareUpdates.png"/>
 
     | **Software**     | **Version**                                        | **Release Date**                                    |
     |------------------|----------------------------------------------------|-----------------------------------------------------|
@@ -81,7 +81,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 -   <!-- empty list item just to wrap the card content -->
 
-    <img src="img/SecurityAdvisory.png"/>
+    <img src="../img/SecurityAdvisory.png"/>
 
     To view more details, click the advisory links below.
 
@@ -110,7 +110,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 - <!-- empty list item to wrap content -->
 
-    <img src="img/ProductUpdates.png"/>
+    <img src="../img/ProductUpdates.png"/>
 
     **End of Sale** notices are listed below.
 
