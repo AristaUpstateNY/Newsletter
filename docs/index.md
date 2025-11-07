@@ -26,7 +26,7 @@ Arista hosts various events throughout the year for you! Members of our team org
     |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
     | __November&nbsp;20__  | Next Gen Campus with Arista - WiFi & NAC Edition | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                              | <span class="location-text">Syracuse NY</span>  [Register](https://events.arista.com/2025-11-20-arista-campus-roadshow-syracuse-ny){.register-link}      
     | __December&nbsp;4__  | NetDevOps: Network Automation Workshop **Part 1of2**  | Automation Fundamentals                                                                    | <span class="location-text">Rochester NY</span>  [Register](https://events.arista.com/2025-12-4-arista-netdevops-automation-fundamentals-workshop-rochester-ny){.register-link}                    |
-    | __December&nbsp;11__ | NetDevOps: Network Automation Workshop **Part 2of2**  | CI using Arista Vaildated Diesgns (AVD)                                                                    | <span class="location-text">Rochester NY</span>  [Register](https://events.arista.com/12-11-network-automation-workshop-ci-avd-rochester-ny){.register-link}                               |
+    | __December&nbsp;11__ | NetDevOps: Network Automation Workshop **Part 2of2**  | CI using Arista's Architect, Validate, Deploy (AVD)                                                                    | <span class="location-text">Rochester NY</span>  [Register](https://events.arista.com/12-11-network-automation-workshop-ci-avd-rochester-ny){.register-link}                               |
 
 </div>
 
@@ -115,7 +115,7 @@ Arista hosts various events throughout the year for you! Members of our team org
     <img src="img/ProductUpdates.png"/>
 
     **End of Sale** notices are listed below. <br>
-    **Field Notices** NOT related to End of Sale can be hound [here](https://www.arista.com/en/support/advisories-notices/fieldnotice) <br>
+    **Field Notices** NOT related to End of Sale can be found [here](https://www.arista.com/en/support/advisories-notices/fieldnotice) <br>
 
     <table>
       <thead>
