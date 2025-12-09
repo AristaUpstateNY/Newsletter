@@ -3,7 +3,7 @@
 
 # Arista UpstateNY Region Newsletter
 
-Welcome to the November 2025 newsletter for Arista customers in the U.S. Upstate NY Region!
+Welcome to the December 2025 newsletter for Arista customers in the U.S. Upstate NY Region!
 
  
 We welcome your feedback on the newsletter. If you have any ideas on what you want to see, please reach out to [UpstateNY@arista.com](mailto:UpstateNY@arista.com)
@@ -22,13 +22,14 @@ Arista hosts various events throughout the year for you! Members of our team org
       <img src="img/UpstateNYEvents.png"/>
     </a>
 
-    | Date         | Name                                     | Description                                                                                                                                                                                                                         | Location & Registration                                                                                       |
-    |--------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-    | __November&nbsp;20__  | Next Gen Campus with Arista - WiFi & NAC Edition | Hands-on access to configure CV-CUE, CVaaS, AGNI, and your own AP. Deepen your understanding of Arista's Campus solutions.                                              | <span class="location-text">Syracuse NY</span>  [Register](https://events.arista.com/2025-11-20-arista-campus-roadshow-syracuse-ny){.register-link}      
-    | __December&nbsp;4__  | NetDevOps: Network Automation Workshop **Part 1of2**  | Automation Fundamentals                                                                    | <span class="location-text">Rochester NY</span>  [Register](https://events.arista.com/2025-12-4-arista-netdevops-automation-fundamentals-workshop-rochester-ny){.register-link}                    |
-    | __December&nbsp;11__ | NetDevOps: Network Automation Workshop **Part 2of2**  | CI using Arista's Architect, Validate, Deploy (AVD)                                                                    | <span class="location-text">Rochester NY</span>  [Register](https://events.arista.com/12-11-network-automation-workshop-ci-avd-rochester-ny){.register-link}                               |
+
 
 </div>
+
+<figure markdown>
+![Image Placement](img/back1month.png){: style="height:500px;width:800px"} 
+    <figcaption>  </figcaption>
+</figure>
 
 <div class="grid cards" markdown>
 
@@ -60,13 +61,13 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     | **Software**     | **Version**                                        | **Release Date**                                    |
     |------------------|----------------------------------------------------|-----------------------------------------------------|
-    | **EOS**          | 4.35.0F  <br> 4.34.3.1M <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> 4.33.5M <br> 4.32.8M <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> 4.31.9M <br> 4.30.10M   | Oct 1st, 2025 <br> Nov 4th, 2025 <br> Sept 3rd, 2025 <br> Oct 24th, 2025 <br> Sept 4th, 2025 <br> April 18th, 2025 |
-    | **CVP**          | Portal 2025.3.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> Appliance 7.1.0 <br> Sensor 1.2.0  | Oct 13th, 2025 <br> Sept 2nd, 2025 <br> Sept 4th, 2025 |
+    | **EOS**          | 4.35.0.1F <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> 4.34.4M <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> 4.33.6M <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> 4.32.8M <br> 4.31.9M <br> 4.30.10M   | Nov 19th, 2025 <br> Dec 1st, 2025 <br> Nov 21st, 2025 <br> Oct 24th, 2025 <br> Sept 4th, 2025 <br> April 18th, 2025 |
+    | **CVP**          | Portal 2025.2.2  <br> Appliance 7.1.0 <br> Sensor 1.3.0 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | Sept 15th, 2025 <br> Sept 2nd, 2025 <br> Dec 5th, 2025 |
     | **DMF**          | 8.8.0 <br> 8.7.2 <br> 8.6.2 <br> 8.5.3                                   | August 15th, 2025 <br> July 25th, 2025 <br> June 23rd, 2025 <br> June 20th, 2025 |
-    | **WLAN**         | CV-CUE 20.0.0-179 <br> AP-21 21.0.0-88vv4 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> AP-20 20.0.0-183vv3  <br> AP-19 19.0.0-183vv18                              | August 20th, 2025 <br> Oct 20th, 2025 <br> Sept 16th, 2025 <br> Sept 21st, 2025  |
+    | **WLAN**         | CV-CUE 20.0.0-179 <br> AP-21 21.0.0-88vv6 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> AP-20 20.0.0-183vv3  <br> AP-19 19.0.0-183vv21 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>                             | August 20th, 2025 <br> Nov 12th, 2025 <br> Sept 16th, 2025 <br> Nov 13th, 2025  |
     | **Arista NDR**   | 5.3.5                  | June 2025 |
     | **TerminAttr**   | 1.40.3                                             | Sept 22nd, 2025 |
-    | **VeloCloud**    | Orchestrator 6.4.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> Gateway 6.4.0 <br> Edge 6.4.0 | Oct 2025 <br> May 2nd, 2025 <br> May 2nd, 2025 |
+    | **VeloCloud**    | Orchestrator 6.4.1 <br> Gateway 6.4.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> <br> Edge 6.4.1 <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | Oct 2025 <br> Nov 26th, 2025 <br> Nov 26th, 2025 |
 
     For all code releases, click [here](https://www.arista.com/en/support/software-download)
 
@@ -86,8 +87,11 @@ Arista hosts various events throughout the year for you! Members of our team org
 
     | **Name** | **Advisory Link** | **Date** |
     |:--------:|:-----------------:|:--------:|
-    | DMF / CCF / CVA / MCD | [Advisory 0124](https://www.arista.com/en/support/advisories-notices/security-advisory/22538-security-advisory-0124) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | Oct 22, 2025 <br> Update: Sept 30, 2025  |
-    | Edge Threat Management / NG Firewall | [Advisory 0123](https://www.arista.com/en/support/advisories-notices/security-advisory/22535-security-advisory-0123) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | Oct 21, 2025  |
+    | IPSec | [Advisory 0127](https://www.arista.com/en/support/advisories-notices/security-advisory/22869-security-advisory-0127) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>  | Nov 18, 2025 <br> Update: Sept 30, 2025  |
+    | CVX / MCS | [Advisory 0126](https://www.arista.com/en/support/advisories-notices/security-advisory/22868-security-advisory-0126) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>  | Nov 18, 2025  |
+    | Console input might result in an unexpected reload | [Advisory 0125](https://www.arista.com/en/support/advisories-notices/security-advisory/22811-security-advisory-0125) <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span> | Nov 11, 2025  |
+    | DMF / CCF / CVA / MCD | [Advisory 0124](https://www.arista.com/en/support/advisories-notices/security-advisory/22538-security-advisory-0124)  | Oct 22, 2025 <br> Update: Sept 30, 2025  |
+    | Edge Threat Management / NG Firewall | [Advisory 0123](https://www.arista.com/en/support/advisories-notices/security-advisory/22535-security-advisory-0123)  | Oct 21, 2025  |
     | Encryption key configuration may be logged in clear text | [Advisory 0122](https://www.arista.com/en/support/advisories-notices/security-advisory/22022-security-advisory-0122) | July 22, 2025 <br> Update: Sept 30, 2025  |
     | Maliciously formed UDP packets | [Advisory 0121](https://www.arista.com/en/support/advisories-notices/security-advisory/22021-security-advisory-0121) | July 22, 2025 <br> Update: Sept 30, 2025  |
     | ACL policies may not be enforced | [Advisory 0120](https://www.arista.com/en/support/advisories-notices/security-advisory/21414-security-advisory-0120) | May 27, 2025 |
@@ -172,7 +176,7 @@ Arista hosts various events throughout the year for you! Members of our team org
           <td>Access Points</td>
           <td>
             <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/20652-end-of-sale-of-ap-model-w-118">AP Model W-118</a> <br>
-            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22536-end-of-sale-of-ap-mounts-mnt-ap-flat-c130-mnt-ap-flat-c100-mnt-ap-flat-14cm-a">MNT-AP-FLAT-C130/C100/14CM-A</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22536-end-of-sale-of-ap-mounts-mnt-ap-flat-c130-mnt-ap-flat-c100-mnt-ap-flat-14cm-a">MNT-AP-FLAT-C130/C100/14CM-A</a> 
           </td>  
           <td>
             November 20, 2024 <br>
@@ -185,7 +189,7 @@ Arista hosts various events throughout the year for you! Members of our team org
             <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21087-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-ra3">Recorder Node DCA-DM-RA3</a><br>
             <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21416-end-of-sale-end-of-life-for-arista-recorder-node-appliance-dca-dm-sel">Service Node DCA-DM-SEL</a><br>
             <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/21648-end-of-sale-end-of-life-for-arista-service-node-appliance-dca-dm-sdl">Service Node DCA-DM-SDL</a><br>
-            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22537-end-of-sale-end-of-life-for-arista-service-node-appliance-dca-dm-sc2">Service Node DCA-DM-SC2</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22537-end-of-sale-end-of-life-for-arista-service-node-appliance-dca-dm-sc2">Service Node DCA-DM-SC2</a> 
           </td>
           <td>
             January 14, 2025<br>
@@ -224,7 +228,7 @@ Arista hosts various events throughout the year for you! Members of our team org
         <tr>          
           <td>VeloCloud</td>
           <td>
-            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22556-end-of-sale-of-the-arista-edge-threat-management-micro-edge-q6e-and-q6ewl-series">Micro Edge Q6E and Q6EWL Series</a> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span>
+            <a href="https://www.arista.com/en/support/advisories-notices/end-of-sale/22556-end-of-sale-of-the-arista-edge-threat-management-micro-edge-q6e-and-q6ewl-series">Micro Edge Q6E and Q6EWL Series</a> 
           </td>
           <td>
             November 5, 2025
@@ -250,7 +254,12 @@ Arista hosts various events throughout the year for you! Members of our team org
       </thead>
       <tbody>
         <tr>
-          <td>Arista's Next Generation Data and AI Center Hardware <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span></td> 
+          <td>Arista and Palo Alto Networks Strengthen Partnership in the New Age of AI Security <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span></td> 
+          <td><a href="https://blogs.arista.com/blog/arista-and-palo-alto-networks-strengthen-partnership-in-the-new-age-of-ai-security">Arista’s EOS® foundation, accompanied by AVA, along with Palo Alto</a></td>
+          <td>Q4 2025</td>
+        </tr>      
+        <tr>
+          <td>Arista's Next Generation Data and AI Center Hardware </td> 
           <td><a href="https://www.arista.com/en/company/news/press-release/22541-pr-10292025">New 800G R4 series portfolio accelerates routing and AI at scale</a></td>
           <td>Q4 2025</td>
         </tr>      
@@ -282,7 +291,7 @@ Arista hosts various events throughout the year for you! Members of our team org
 ---
 
 ## **Spotlight** 🔦 
-<p style="text-align: center;"><strong>Take a look at New 800G R4 series portfolio!</strong> <span style="background-color:red; color:white; font-weight:bold; border-radius:4px; padding:2px 4px; font-size:0.7em;">NEW</span></p>
+<p style="text-align: center;"><strong>Take a look at New 800G R4 series portfolio!</strong> </p>
 
 <div class="article-section" markdown>
 </div>
@@ -303,167 +312,223 @@ Arista hosts various events throughout the year for you! Members of our team org
 
 ---
 
-## **Article #1 - Digitize your network with ACT**
-By: Alex Longhenry, Advisory Services Engineer, Upstate NY Region
+## **Article #1 - Network and Security Engineering: Did We Just Become Best Friends?**
+By: Joseph Mitri, Senior Systems Engineer, Upstate NY Region
 
 <div class="article-section" markdown>
 
-<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Rethink How You Test and Evolve Your Network
+For decades, network and security teams have worked toward the same business goal: keep applications reachable and protected. But the way they approach that goal has often pulled in different directions.
+
+Picture the environment, whether a data center or campus, as a massive transportation system. The applications are the cars moving across it, each with its own purpose and performance profile. The users operating those applications are the drivers behind the wheel. The network is the highway system built to move those cars and drivers quickly and efficiently. And the security stack, including firewalls, NAC, identity, and segmentation systems, are the collection of border crossings, toll booths, and inspection points that check who is traveling, what they are carrying, and whether they should be allowed down a particular path.
+
+Network engineers have traditionally played the role of the Department of Transportation. Their job is to keep the roads wide, predictable, redundant, and fast.  Avoiding detours, eliminating bottlenecks, and making sure the entire system stays up and running.
+
+Security teams, whether focused on firewall policy, NAC enforcement, user identity, device posture, or segmentation, operate more like a coordinated border authority. Their mission is to validate drivers, inspect cargo, enforce the rules of the road, and prevent unauthorized movement. That often means introducing checkpoints or routing traffic through specific paths to ensure proper inspection.
+
+And that is where the familiar tension has always lived. The network prefers open highways. Security prefers controlled checkpoints. The cars and drivers, meaning our apps and users, sit in the middle of that push and pull.
+
+<p style="font-size:1.25em; font-style:italic; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
+  Enter Arista MSS: A modern traffic model that unifies network performance with security enforcement
 </p>
 
-As we all know, network uptime is critical. However, testing, making configuration changes, or evolving your network often requires scheduled maintenance windows — typically after hours, over the weekend, or, for 24/7 operations, during the few opportunities available each year. This limited flexibility can slow innovation, delay automation efforts, and increase operational risk.
-But what if you could test, validate, and evolve your network — anytime — without impacting production?
+Arista Multi-Domain Segmentation Services (MSS) eliminates the need to steer traffic through a handful of centralized inspection points. Instead, it allows security policy to be enforced directly on the switching infrastructure. 
 
-<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Introducing Arista Cloud Test (ACT)
+The switches, already designed for performance, apply policy at line rate without detours, hairpinning, or unnecessary latency.
+
+ - Security teams continue defining the policy and intent centrally.
+ - The network enforces those decisions consistently and immediately.
+ - Traffic moves the way it always should have: fast, predictable, and secure.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/yHgPwDmqtj0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p style="font-size:1.25em; font-style:italic; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
+  Arista MSS in the Data Center: Strengthened by a new Palo Alto Networks partnership
 </p>
 
-**Arista Cloud Test (ACT)** provides a cost-effective, scalable, and flexible platform for network testing, automation development, and training. With ACT, you can replicate your entire network virtually, creating a fully configurable digital twin powered by vEOS that supports thousands of nodes.
-This means you no longer have to wait for a maintenance window to see whether a configuration change might disrupt your network. Instead, you can test safely and repeatedly in a simulated environment that mirrors your production setup.
+MSS becomes even more powerful through the collaboration between Arista and Palo Alto Networks. Palo Alto firewalls remain the authoritative source of rich security intelligence, identity context, and application-level policy, while Arista distributes that policy throughout the data center fabric for enforcement at line rate.
 
 <figure markdown>
-![Image Placement](img/nov-act.jpeg){: style="height:300px;width:800px"} 
+![Image Placement](img/Dec2025-PANW-Arista.png){: style="height:350px;width:800px"} 
     <figcaption>  </figcaption>
 </figure>
-
-<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Empowering Automation and Agility
+<p style="text-align:center;">
+  <a href="https://blogs.arista.com/blog/arista-and-palo-alto-networks-strengthen-partnership-in-the-new-age-of-ai-security" target="_blank">https://blogs.arista.com/blog/arista-and-palo-alto-networks-strengthen-partnership-in-the-new-age-of-ai-security</a>
 </p>
 
-ACT integrates seamlessly with **Arista Architect, Validate, Deploy (AVD)** and **GitLab**, enabling your automation teams to develop and test scripts long before physical hardware arrives. This accelerates deployment timelines, enhances confidence in configuration changes, and reduces risk.
-You can also deploy a **CloudVision** node within your lab environment to explore new CloudVision features and leverage its powerful automation capabilities to orchestrate and manage your virtual network.
-
-<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Backed by Arista TAC Support
+<p style="font-size:1.25em; font-style:italic; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
+  Arista MSS in the Campus
 </p>
 
-Even in a lab environment, you’re never on your own. All ACT environments are fully supported by **Arista’s Technical Assistance Center (TAC)** to ensure your virtual labs remain accessible, stable, and performing as expected.
+MSS integrates with [Arista AGNI](https://www.arista.com/en/products/network-access-control) or third-party NAC platforms to assign tags based on identity, role, device type, posture, OS version, risk level, or location. All of this happens without relying on VLANs or complex macro-segmentation.
 
-<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Transform the Way You Innovate
+<figure markdown>
+![Image Placement](img/Dec2025-MSS-Security.png){: style="height:300px;width:800px"} 
+    <figcaption>  </figcaption>
+</figure>
+<p style="text-align:center;">
+  <a href="https://www.arista.com/en/products/multi-domain-segmentation" target="_blank">https://www.arista.com/en/products/multi-domain-segmentation</a>
 </p>
 
-With Arista Cloud Test, you can:
+<p style="font-size:1.25em; font-style:italic; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
+  In summary
+</p>
 
-- Validate network changes before deployment
-- Develop and test automation workflows in a risk-free environment
-- Train your operations teams on real-world scenarios
-- Scale testing to thousands of virtual nodes with minimal cost
-- Arista Cloud Test empowers your organization to innovate faster, reduce downtime risk, and evolve your network with confidence.
+Arista MSS brings a unified Zero Trust architecture to both data center and campus networks. It aligns network performance with security intent rather than forcing one to sacrifice for the other.
+
+If you would like to hear more about Arista MSS, do not hesitate to reach out to your Arista account team.
 
 </div>
 
 
 ---
 
-## **Article #2 - Blame the Network!** 
-By: Randy Longhenry, Account Executive, Upstate NY Region
+## **Article #2 - Arista 2025: The Year Ethernet Took Over AI Networking** 
+By: Jeramiah Pauly, Associate Account Manager - Upstate NY Region
 
 <div class="article-section" markdown>
 
+2025 will be remembered as a defining year for Arista Networks. Few companies in infrastructure managed to balance technical innovation, market expansion, leadership focus, and operational clarity the way Arista did over these twelve months. While the networking industry debated AI claims, cloud fragmentation, and edge complexity, Arista demonstrated something rare: a clear strategy paired with consistent execution at scale.
+
 <p style="font-size:1.25em; font-style:italic; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Large Network Operational Challenges (and a Few Lessons Learned)
+  AI Networking Became the Story and Arista Owned It
 </p>
 
-Back in late 2017, I stepped into a new role as Network Manager for a large financial services company that moved nearly $1 trillion a year through its network.  To put that in perspective — only about a dozen organizations on the planet (banks + payment networks) handle more than that annually.
+In March of this year, one message became very clear. Ethernet will win the AI networking battle. CEO Jayshree Ullal articulated this several times throughout 2025, positioning Arista not as a hyperscale only vendor but as the company building deterministic, high performance fabrics for GPU dense environments.
 
-Most of our business happened between 8 AM and 8 PM, Monday through Friday, and each minute of downtime was worth roughly $5 million in financial impact.
+Between the release of the [EOS Smart AI Suite](https://www.arista.com/en/company/news/press-release/21271-pr-20250312) and new platforms designed for AI job aware observability, intelligent load balancing, and GPU traffic optimization, Arista delivered a simple reality to the market. AI networking is a real workload with real requirements. It is not marketing language.
 
-Let’s just say, keeping the network up wasn’t just important — it was existential.
+Multiple product launches throughout the year illustrated a tactical and disciplined approach that did not rely on a single announcement or a single device. Arista delivered:
+
+- [Modular switches](https://www.arista.com/en/company/news/press-release/22541-pr-10292025) that support scale out and scale up
+- New AI data center platforms designed for GPU fabric performance
+- A fully developed AI networking portfolio, not a single SKU
+
+This was not one AI device. It was a complete architecture with the software to operate and observe it.
 
 <p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  The Landscape I Inherited
+  Ultra Ethernet Consortium Became the Blueprint for AI Fabric Scale
 </p>
 
-I took over a network spanning:
+All of this momentum centered around a fundamental architectural model: Ultra Ethernet Consortium, also known as UEC. In 2025 Arista moved from theory to practice and showed real customers how to deliver large scale AI environments using Ethernet in predictable and repeatable ways.
 
-- **3 primary data centers**
-- **Half a dozen smaller data centers**
-- **~150 remote offices and processing centers**
-- **A handful of subsidiary networks and several cloud connections**
+[UEC](https://blogs.arista.com/blog/demystifying-ultra-ethernet) addressed three critical requirements that every AI focused customer wrestled with:
 
-All supported by a **lean team of 15 engineers** responsible for every bit of design, deployment, and day-to-day operation — routing, switching, circuits, wireless — the works.
+- East west GPU traffic performance for training
+- Lossless Ethernet without proprietary transport requirements
+- Operational control for thousands of AI servers
 
-Coming from the world of network vendors, I felt ready. I’d worked as a Systems Engineer for two major manufacturers and knew the solutions extremely well.  I believed that the manufacturer we used was the industry standard for data center, campus, WAN, and wireless domains — I knew how they should work. I was optimistic.
-
-For a while.
+UEC delivered traffic engineering with EOS, real time fabric observability with [CloudVision](https://www.arista.com/en/products/eos/eos-cloudvision), and job aware congestion control with Smart AI Suite. The most important outcome was simplicity. UEC turned AI design into an implementation decision, not an academic argument.
 
 <p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  The Reality Check
+  Leadership Moved From Confidence to Acceleration
 </p>
 
-A few months in, the honeymoon was over. Here’s what I discovered:
+2025 was also a leadership story for Arista.
 
-- **Fragmented Environment:** Five product types, each running its own OS — and over **20 software versions** in production. No easy way to track, govern or upgrade them - and a nightmare to integrate with. 
-- **Disjointed management:** Three separate management systems, none fully deployed or current (too much manual overhead).
-- **Zero automation:** Almost all tasks were manual — even the routine ones that begged to be scripted.  The current hardware was simply not automation-friendly at all, and there was no standard automation environment.
-- **Limited visibility:** Just SNMP polling and a couple end-of-life flow collectors. We had no real view into what traffic was doing.
-- **No reliable inventory:** Diagrams were mostly outdated, documentation was scarce and “tribal knowledge” was the most reliable source of how things were built.
-- **Security:** very difficult and time consuming to apply uniform policies across such fragmented silos - and fragments inside of silos.
+The appointment of former Cisco Meraki leader [Todd Nightingale](https://www.youtube.com/watch?v=qkBax7_CT-E) as Chief Operating Officer signaled operational discipline and a renewed focus on scaling the business.
 
-The results?
+An experienced AWS executive, [Tyson Lamoreaux](https://www.sdxcentral.com/news/arista-networks-shuffle-sees-aws-veteran-join-for-cloud-and-ai-pivot/), joined Arista to accelerate the data center business. This confirmed that Arista is no longer just a switching company. It is a global cloud infrastructure company.
 
-- Everything was configured manually through the CLI — one typo away from a $5M per minute outage.
-- Managing code, bugs, and vulnerabilities was chaos.
-- Troubleshooting meant diving into port counters with good instincts and following the breadcrumbs. 
+[Jayshree Ullal](https://blogs.arista.com/blog/generative-and-agentic-ai-networking-revolution) continued to lead through credibility and clarity, reinforcing the same straightforward idea throughout the year. Open standards, Ethernet, and automation will win.
 
-The network was tough to manage, harder to troubleshoot, and — inevitably — the **first suspect whenever anything broke in IT.**  You know the drill: “Blame the network!”
+Viewed together, Arista evolved leadership around scale, systems thinking, and global presence, not only product development.
 
 <p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Managing Risk (and Little Sleep)
+  Global Expansion Was Not Talk. It Was Investment
 </p>
 
-At that point, my real job title might as well have been **Risk Manager**.  We made almost all changes after hours or on weekends.  Every update carried weight — layers of approvals, manual steps, and plenty of stress.
+Many companies reference global scale without evidence. Arista acted.
 
-The network’s complexity slowed everything down, which hurt the business we were supposed to empower.  
+The company announced a [one billion dollar investment](https://www.arista.com/en/company/news/press-release/22031-pr-20250730) in India. This was not a marketing event. It was a long term commitment to engineering talent, manufacturing depth, and go to market investment.
 
-Sound familiar?
+Arista recognized early that the AI era requires global supply chains, distributed development teams, and resilient operations.
 
 <p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  Enter Arista: A Breath of Fresh (Network) Air
+  Customer Proof Was More Persuasive Than Any Presentation
 </p>
 
-Fast forward to 2020.
+The most underrated part of 2025 was something simple. Customers saw real outcomes.
 
-While evaluating a data center refresh, I came across Arista — and it checked every box I’d been wishing for:
+A clear example came from John Camille, a network administrator in Upstate New York, who stated the following:
 
-**Why Arista Was a Game-Changer**
+“Transitioning to Arista has been completely eye opening. Arista clearly and regularly demonstrates what networking can and should be like.”
 
-- **One OS to rule them all:** A single **EOS** across data center, routing, and campus — no more juggling 20 software versions.
-- **Stability and security:** EOS was rock solid. No more code roulette or bug hunts every upgrade cycle.
-- **CloudVision:** The operations portal I always wanted, with:
-    - **Inventory management:** Real-time hardware/software state, bug and CVE awareness, automated alerts.
-    - **Automation tools:** Configlets and “studios” for consistent, template-based changes.
-    - **Change control:** Task management, approvals, and automation integration built right in.
-    - **Observability:** True streaming telemetry (not polling!) for live flow visibility and custom dashboards.
-    - **Topology awareness:** Real-time network views showing connectivity, utilization, and flows.
-- **Open standards:** Universal CLI and no proprietary lock-in — easy integration across environments.
-- **Outstanding support:** Calls answered within a minute by an **architect-level engineer**, not a gatekeeper checking contracts.
+This was not a case study with five bullet points. It was the voice of a practitioner seeing daily improvement.
 
 <p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
-  The Results
+  Campus Portfolio Momentum Continued to Build
 </p>
 
-Since adopting Arista:
+Multiple reports throughout the year indicated that Arista moved beyond the legacy perception of being a hyperscale technology company. Enterprises embraced Arista as a strategic choice for campus, data center, WAN, and AI workloads.
 
-- Operations greatly simplified: Faster deployments, easier management.
-- Reliability improved dramatically: Fewer issues, faster troubleshooting, and better collaboration across IT.
-- Security strengthened: Vastly fewer vulnerability exposures and predictable upgrades.
+Arista demonstrated that one operating model can produce consistent outcomes across entirely different environments.
 
-Most importantly to me: 
+See more global customer success stories with our campus products [here](https://www.arista.com/en/company/customer-testimonials/solutions/campus-wi-fi).
 
-- Team morale improved greatly:
-    - Less after-hours work.
-    - Reduced change risk.
-    - Quick, expert support when things went sideways.
+<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
+  WAN Became Strategic Again and VeloCloud Provided the Catalyst
+</p>
 
-Overall, the network stopped being “the problem” — it became a **trusted, stable foundation** for the business. 
+One of the most important moves of 2025 did not take place in the data center. It took place at the edge.
 
-“Blame the Network”?  Not anymore. Go find someone else to pick on!
+While the industry focused on AI fabrics and GPU transport challenges, Arista concentrated on the WAN and [acquiring VeloCloud](https://www.arista.com/en/company/news/press-release/21646-pr-07012025) from Broadcom became the turning point.
+
+The narrative changed very quickly.
+
+Enterprises asked for cloud on ramps that reflected Arista principles, not bolt on point solutions. Network teams asked a single question. How do we simplify policy across branches, WANs, and data centers using one operating model and one source of truth.
+
+VeloCloud delivered that bridge. It unified operational practice. It gave Arista the same advantage in WAN that EOS gave them in the data center: one platform and one method of control.
+
+<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
+  So What Really Happened in 2025
+</p>
+
+Arista did not chase AI. Arista architected it. Arista leads the industry with the #1 market share in data center switching. Our Smart Etherlink™ 800G AI platforms have made Ethernet the de facto standard for the AI data center.
+
+2025 was the year Arista:
+
+- Demonstrated that Ethernet can support GPU fabric transport at scale
+- Built a global operational footprint delivering clarity in a noisy infrastructure market
+- Strengthened leadership to support long term execution
+
+And throughout every major development one platform remained constant.
+
+EOS delivered:
+
+- Low vulnerability scores
+- One operating model
+- One source of truth
+- Automation first operations
+
+<p style="font-size:1.25em; font-weight:bold; margin-top:1.2em; margin-bottom:0.4em;">
+  Final Reflection
+</p>
+
+If 2023 and 2024 were the years Arista promised simplification at scale then 2025 became the year Arista delivered it across AI, enterprise, WAN, and cloud routing together.
+
+The most important part of this year is not a single launch or a single technology breakthrough. It is the consistency of approach while the industry tried to reinvent itself in real time.
+
+Arista will enter 2026 without hype and without noise. It now moves forward with durable momentum based on execution, not expectation.
 
 </div>
 
+---
+
+## **A 2025 Wrap Up** 
+
+<div class="article-section" markdown>
+
+As we wrap up 2025, I want to take a moment to say thank you. Whether we met in a meeting room, a design session, a training event, or somewhere in between, I’ve genuinely appreciated every conversation, every challenge we solved together, and every opportunity we had to build something better.
+
+This community continues to grow because of your curiosity, your willingness to try new ideas, and your commitment to doing things the right way. It’s been a privilege to support you this year, and I’m looking forward to everything we’ll take on together in 2026.
+
+Wishing you and your families a safe, healthy, and relaxing holiday season. Enjoy the time off, recharge, and come back ready for a new year full of upgrades and new capabilities for your network.
+
+Happy Holidays, and all the best in the year ahead!
+
+</div>
 
 ---
 # *Feel Free to Reach Out To Us For Your Network Needs* 
